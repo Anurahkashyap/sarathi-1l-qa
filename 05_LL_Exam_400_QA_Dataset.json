@@ -1,0 +1,2802 @@
+[
+  {
+    "id": 1,
+    "q_en": "Near a pedestrian crossing, when pedestrians are waiting to cross the road, you should:",
+    "a_en": "Stop the vehicle and wait until the pedestrians cross",
+    "q_hi": "पैदल पारपथ (जेब्रा क्रॉसिंग) के पास, जब पैदल यात्री सड़क पार करने की प्रतीक्षा कर रहे हों, तो आपको:",
+    "a_hi": "वाहन रोकना चाहिए और पैदल यात्रियों के पार करने तक प्रतीक्षा करनी चाहिए"
+  },
+  {
+    "id": 2,
+    "q_en": "You are approaching a narrow bridge and another vehicle is about to enter from the opposite side. You should:",
+    "a_en": "Wait until the other vehicle crosses the bridge before proceeding",
+    "q_hi": "आप एक संकरे पुल के पास पहुँच रहे हैं और सामने से एक अन्य वाहन प्रवेश करने वाला है। आपको:",
+    "a_hi": "आगे बढ़ने से पहले दूसरे वाहन के पुल पार करने तक प्रतीक्षा करनी चाहिए"
+  },
+  {
+    "id": 3,
+    "q_en": "When a vehicle is involved in an accident causing injury to any person, the driver must:",
+    "a_en": "Take all reasonable steps to secure medical attention for the injured and report to the nearest police station within 24 hours",
+    "q_hi": "जब किसी वाहन की दुर्घटना में किसी व्यक्ति को चोट लगती है, तो चालक को:",
+    "a_hi": "घायल व्यक्ति को चिकित्सा सहायता दिलाने के लिए सभी उचित कदम उठाने चाहिए और 24 घंटे के भीतर निकटतम पुलिस स्टेशन में रिपोर्ट करनी चाहिए"
+  },
+  {
+    "id": 4,
+    "q_en": "On a road designated as one-way:",
+    "a_en": "You must not drive in reverse gear",
+    "q_hi": "एकतरफा (वन-वे) घोषित सड़क पर:",
+    "a_hi": "आपको रिवर्स गियर में वाहन नहीं चलाना चाहिए"
+  },
+  {
+    "id": 5,
+    "q_en": "You can overtake a vehicle in front:",
+    "a_en": "Through the right side of that vehicle",
+    "q_hi": "आप आगे चल रहे वाहन को ओवरटेक कर सकते हैं:",
+    "a_hi": "उस वाहन के दाईं (Right) ओर से"
+  },
+  {
+    "id": 6,
+    "q_en": "When a vehicle approaches an unguarded railway level crossing, before crossing it the driver shall:",
+    "a_en": "Stop the vehicle on the left side of the road, get down, go to the track, and ensure no train or trolley is approaching",
+    "q_hi": "जब कोई वाहन बिना फाटक (मानवरहित) रेलवे क्रॉसिंग पर पहुँचता है, तो पार करने से पहले चालक को:",
+    "a_hi": "सड़क के बाईं ओर वाहन रोकना चाहिए, नीचे उतरकर पटरी तक जाना चाहिए और सुनिश्चित करना चाहिए कि कोई ट्रेन या ट्रॉली नहीं आ रही है"
+  },
+  {
+    "id": 7,
+    "q_en": "How can you distinguish a transport vehicle?",
+    "a_en": "By looking at the number plate of the vehicle (yellow background with black letters/numbers)",
+    "q_hi": "आप एक परिवहन (कमर्शियल) वाहन की पहचान कैसे कर सकते हैं?",
+    "a_hi": "वाहन की नंबर प्लेट देखकर (पीली पृष्ठभूमि पर काले अक्षर/अंक)"
+  },
+  {
+    "id": 8,
+    "q_en": "Validity of a Learner's Licence is:",
+    "a_en": "6 months",
+    "q_hi": "लर्नर लाइसेंस (शिक्षार्थी अनुज्ञप्ति) की वैधता होती है:",
+    "a_hi": "6 महीने"
+  },
+  {
+    "id": 9,
+    "q_en": "In a road without footpath, the pedestrians:",
+    "a_en": "Should walk on the right side of the road",
+    "q_hi": "बिना फुटपाथ वाली सड़क पर पैदल यात्रियों को:",
+    "a_hi": "सड़क के दाईं ओर चलना चाहिए"
+  },
+  {
+    "id": 10,
+    "q_en": "Free passage should be given to the following types of vehicles:",
+    "a_en": "Ambulance and fire service vehicles",
+    "q_hi": "निम्नलिखित प्रकार के वाहनों को निर्बाध रास्ता दिया जाना चाहिए:",
+    "a_hi": "एम्बुलेंस और अग्निशमन (फायर ब्रिगेड) वाहन"
+  },
+  {
+    "id": 11,
+    "q_en": "Vehicles proceeding from opposite direction should be allowed to pass through:",
+    "a_en": "Your right side",
+    "q_hi": "विपरीत दिशा से आ रहे वाहनों को गुजरने देना चाहिए:",
+    "a_hi": "आपकी दाईं ओर से"
+  },
+  {
+    "id": 12,
+    "q_en": "Driver of a vehicle may overtake:",
+    "a_en": "When the driver of the vehicle in front shows the signal to overtake",
+    "q_hi": "वाहन चालक ओवरटेक कर सकता है:",
+    "a_hi": "जब आगे चल रहे वाहन का चालक ओवरटेक करने का संकेत दे"
+  },
+  {
+    "id": 13,
+    "q_en": "Driver of a motor vehicle shall drive through:",
+    "a_en": "The left side of the road",
+    "q_hi": "मोटर वाहन चालक को वाहन चलाना चाहिए:",
+    "a_hi": "सड़क के बाईं ओर से"
+  },
+  {
+    "id": 14,
+    "q_en": "When a vehicle is parked on the road side during night:",
+    "a_en": "The park light shall remain lit",
+    "q_hi": "जब रात के समय सड़क किनारे वाहन खड़ा किया जाता है:",
+    "a_hi": "पार्किंग लाइट जलती रहनी चाहिए"
+  },
+  {
+    "id": 15,
+    "q_en": "Fog lamps are used:",
+    "a_en": "When there is mist or fog",
+    "q_hi": "फॉग लैंप (कोहरा बत्ती) का उपयोग किया जाता है:",
+    "a_hi": "जब धुंध या कोहरा हो"
+  },
+  {
+    "id": 16,
+    "q_en": "Zebra lines are meant for:",
+    "a_en": "Pedestrians crossing",
+    "q_hi": "जेब्रा लाइनें किसके लिए होती हैं?",
+    "a_hi": "पैदल यात्रियों के सड़क पार करने के लिए"
+  },
+  {
+    "id": 17,
+    "q_en": "When an ambulance is approaching:",
+    "a_en": "The driver shall allow free passage by drawing to the side of the road",
+    "q_hi": "जब कोई एम्बुलेंस आ रही हो:",
+    "a_hi": "चालक को अपना वाहन सड़क के किनारे करके एम्बुलेंस को मुक्त रास्ता देना चाहिए"
+  },
+  {
+    "id": 18,
+    "q_en": "Red traffic light indicates:",
+    "a_en": "Stop the vehicle",
+    "q_hi": "लाल ट्रैफिक लाइट का संकेत है:",
+    "a_hi": "वाहन रोकें"
+  },
+  {
+    "id": 19,
+    "q_en": "Parking a vehicle in front of entrance to hospital:",
+    "a_en": "Improper / Prohibited",
+    "q_hi": "अस्पताल के प्रवेश द्वार के सामने वाहन पार्क करना:",
+    "a_hi": "अनुचित / निषिद्ध है"
+  },
+  {
+    "id": 20,
+    "q_en": "Where the slippery road sign is seen on the road, the driver shall:",
+    "a_en": "Reduce the speed by changing the gear",
+    "q_hi": "जहाँ सड़क पर 'फिसलन भरी सड़क' का संकेत दिखाई दे, वहाँ चालक को:",
+    "a_hi": "गियर बदलकर गति कम करनी चाहिए"
+  },
+  {
+    "id": 21,
+    "q_en": "Overtaking is prohibited in the following circumstances:",
+    "a_en": "When it is likely to cause inconvenience or danger to other traffic",
+    "q_hi": "निम्नलिखित परिस्थितियों में ओवरटेक करना वर्जित है:",
+    "a_hi": "जब इससे अन्य यातायात को असुविधा या खतरा होने की संभावना हो"
+  },
+  {
+    "id": 22,
+    "q_en": "Overtaking when approaching a bend:",
+    "a_en": "Is not permissible",
+    "q_hi": "मोड़ के पास पहुँचते समय ओवरटेक करना:",
+    "a_hi": "अनुमत नहीं है"
+  },
+  {
+    "id": 23,
+    "q_en": "Drunken driving:",
+    "a_en": "Is prohibited in all vehicles",
+    "q_hi": "शराब पीकर वाहन चलाना:",
+    "a_hi": "सभी वाहनों में निषिद्ध है"
+  },
+  {
+    "id": 24,
+    "q_en": "Use of horn is prohibited near:",
+    "a_en": "Hospital and Court of Law (Silence Zone)",
+    "q_hi": "हॉर्न का उपयोग कहाँ निषिद्ध है?",
+    "a_hi": "अस्पताल और न्यायालय के पास (साइलेंस ज़ोन)"
+  },
+  {
+    "id": 25,
+    "q_en": "Rear view mirror is used:",
+    "a_en": "For watching the traffic approaching from behind",
+    "q_hi": "रियर व्यू मिरर (पीछे देखने का शीशा) का उपयोग किया जाता है:",
+    "a_hi": "पीछे से आ रहे यातायात को देखने के लिए"
+  },
+  {
+    "id": 26,
+    "q_en": "Boarding in and alighting from a vehicle while in motion:",
+    "a_en": "Prohibited in all vehicles",
+    "q_hi": "चलते वाहन में चढ़ना और उतरना:",
+    "a_hi": "सभी वाहनों में निषिद्ध है"
+  },
+  {
+    "id": 27,
+    "q_en": "Parking is permitted:",
+    "a_en": "Where parking is not prohibited",
+    "q_hi": "पार्किंग की अनुमति है:",
+    "a_hi": "जहाँ पार्किंग निषिद्ध न हो"
+  },
+  {
+    "id": 28,
+    "q_en": "When fuel is filled in a vehicle:",
+    "a_en": "Shall not smoke",
+    "q_hi": "जब वाहन में ईंधन भरा जा रहा हो:",
+    "a_hi": "धूम्रपान नहीं करना चाहिए"
+  },
+  {
+    "id": 29,
+    "q_en": "Mobile phones shall not be used:",
+    "a_en": "While driving a vehicle",
+    "q_hi": "मोबाइल फोन का उपयोग नहीं किया जाना चाहिए:",
+    "a_hi": "वाहन चलाते समय"
+  },
+  {
+    "id": 30,
+    "q_en": "Overtaking is prohibited:",
+    "a_en": "When the road ahead is not clearly visible",
+    "q_hi": "ओवरटेक करना निषिद्ध है:",
+    "a_hi": "जब आगे की सड़क स्पष्ट रूप से दिखाई न दे रही हो"
+  },
+  {
+    "id": 31,
+    "q_en": "The pedestrians shall not cross the road at sharp corners or near stopped vehicles. Why?",
+    "a_en": "Drivers of other vehicles coming at a distance may not see persons crossing the road",
+    "q_hi": "पैदल यात्रियों को तीखे मोड़ों पर या खड़े वाहनों के पास सड़क पार नहीं करनी चाहिए। क्यों?",
+    "a_hi": "दूर से आ रहे अन्य वाहनों के चालकों को सड़क पार करते व्यक्ति दिखाई नहीं दे सकते"
+  },
+  {
+    "id": 32,
+    "q_en": "Records of a private vehicle are:",
+    "a_en": "Registration Certificate, Insurance Certificate, Tax Token, Driving Licence, and PUCC",
+    "q_hi": "निजी वाहन के आवश्यक दस्तावेज हैं:",
+    "a_hi": "पंजीकरण प्रमाण पत्र (RC), बीमा प्रमाण पत्र, टैक्स टोकन, ड्राइविंग लाइसेंस और प्रदूषण प्रमाण पत्र (PUCC)"
+  },
+  {
+    "id": 33,
+    "q_en": "While turning to a road to the left of the road in which you are going, you should:",
+    "a_en": "Show the left turn signal, keep to the left side, and enter the left side of the new road",
+    "q_hi": "जिस सड़क पर आप जा रहे हैं उसके बाईं ओर मुड़ते समय आपको:",
+    "a_hi": "बाएं मुड़ने का संकेत देना चाहिए, सड़क के बाईं ओर रहना चाहिए और नई सड़क के बाईं ओर प्रवेश करना चाहिए"
+  },
+  {
+    "id": 34,
+    "q_en": "Validity of Pollution Under Control (PUC) Certificate is:",
+    "a_en": "6 months (1 year for new BS-IV/BS-VI vehicles)",
+    "q_hi": "प्रदूषण नियंत्रण (PUC) प्रमाण पत्र की वैधता होती है:",
+    "a_hi": "6 महीने (नए BS-IV/BS-VI वाहनों के लिए 1 वर्ष)"
+  },
+  {
+    "id": 35,
+    "q_en": "While driving with high beam at night, a vehicle approaches from opposite direction, you will:",
+    "a_en": "Dim the head light till the vehicle passes",
+    "q_hi": "रात में हाई बीम हेडलाइट के साथ वाहन चलाते समय सामने से वाहन आने पर आप:",
+    "a_hi": "वाहन के गुजरने तक हेडलाइट को डिम (लो बीम) कर देंगे"
+  },
+  {
+    "id": 36,
+    "q_en": "Driver extends right arm with palm downward and moves arm up and down several times. This means:",
+    "a_en": "He is slowing down the vehicle",
+    "q_hi": "चालक अपना दाहिना हाथ हथेली नीचे करके बाहर निकालता है और ऊपर-नीचे हिलाता है। इसका अर्थ है:",
+    "a_hi": "वह वाहन की गति धीमी कर रहा है"
+  },
+  {
+    "id": 37,
+    "q_en": "Minimum age for getting a licence to drive motor cycle without gear is:",
+    "a_en": "16 years (with parent/guardian consent)",
+    "q_hi": "बिना गियर वाली मोटरसाइकिल चलाने का लाइसेंस प्राप्त करने की न्यूनतम आयु है:",
+    "a_hi": "16 वर्ष (माता-पिता/अभिभावक की सहमति से)"
+  },
+  {
+    "id": 38,
+    "q_en": "When you see the traffic sign 'School', you should:",
+    "a_en": "Slow down and proceed with caution",
+    "q_hi": "जब आप 'स्कूल' का यातायात संकेत देखते हैं, तो आपको:",
+    "a_hi": "गति धीमी करनी चाहिए और सावधानी से आगे बढ़ना चाहिए"
+  },
+  {
+    "id": 39,
+    "q_en": "While turning to the left, the driver of a two-wheeler shall:",
+    "a_en": "Show left turn signal with his right hand or indicator",
+    "q_hi": "बाईं ओर मुड़ते समय दोपहिया वाहन चालक को:",
+    "a_hi": "अपने दाहिने हाथ या इंडिकेटर से बाएं मुड़ने का संकेत देना चाहिए"
+  },
+  {
+    "id": 40,
+    "q_en": "The signal while taking U-turn:",
+    "a_en": "Right turn signal",
+    "q_hi": "यू-टर्न (U-turn) लेते समय दिया जाने वाला संकेत:",
+    "a_hi": "दाएं मुड़ने का संकेत"
+  },
+  {
+    "id": 41,
+    "q_en": "The driver of a vehicle shall not take U-turn:",
+    "a_en": "In a busy road / where U-turn is prohibited",
+    "q_hi": "वाहन चालक को यू-टर्न नहीं लेना चाहिए:",
+    "a_hi": "व्यस्त सड़क पर / जहाँ यू-टर्न निषिद्ध हो"
+  },
+  {
+    "id": 42,
+    "q_en": "One time tax for a new car is for:",
+    "a_en": "15 years",
+    "q_hi": "नई कार के लिए एकमुश्त कर (One-time tax) की अवधि होती है:",
+    "a_hi": "15 वर्ष"
+  },
+  {
+    "id": 43,
+    "q_en": "Before overtaking a vehicle, it should be ensured that:",
+    "a_en": "The road ahead is clearly visible and it is safe to overtake",
+    "q_hi": "किसी वाहन को ओवरटेक करने से पहले यह सुनिश्चित कर लेना चाहिए कि:",
+    "a_hi": "आगे की सड़क स्पष्ट रूप से दिखाई दे रही है और ओवरटेक करना सुरक्षित है"
+  },
+  {
+    "id": 44,
+    "q_en": "Number of persons can be carried in the cabin of a Goods Carriage:",
+    "a_en": "As many persons as recorded in the Registration Certificate",
+    "q_hi": "मालवाहक वाहन के केबिन में कितने व्यक्ति ले जाए जा सकते हैं?",
+    "a_hi": "पंजीकरण प्रमाण पत्र (RC) में दर्ज संख्या के अनुसार"
+  },
+  {
+    "id": 45,
+    "q_en": "When your vehicle is being overtaken, you should:",
+    "a_en": "Not increase speed",
+    "q_hi": "जब आपके वाहन को ओवरटेक किया जा रहा हो, तो आपको:",
+    "a_hi": "गति नहीं बढ़ानी चाहिए"
+  },
+  {
+    "id": 46,
+    "q_en": "A place where parking is prohibited:",
+    "a_en": "In front of a parked vehicle / Footpath / Near traffic lights",
+    "q_hi": "वह स्थान जहाँ पार्किंग निषिद्ध है:",
+    "a_hi": "खड़े वाहन के सामने / फुटपाथ / ट्रैफिक लाइट के पास"
+  },
+  {
+    "id": 47,
+    "q_en": "The hand brake is to be used:",
+    "a_en": "To park a vehicle",
+    "q_hi": "हैंड ब्रेक का उपयोग किया जाता है:",
+    "a_hi": "वाहन को पार्क (खड़ा) करने के लिए"
+  },
+  {
+    "id": 48,
+    "q_en": "More than two persons on a two-wheeler is:",
+    "a_en": "Violation of law",
+    "q_hi": "दोपहिया वाहन पर दो से अधिक व्यक्तियों का बैठना:",
+    "a_hi": "कानून का उल्लंघन है"
+  },
+  {
+    "id": 49,
+    "q_en": "You want to overtake a vehicle near a hospital. You will:",
+    "a_en": "Not blow horn",
+    "q_hi": "आप अस्पताल के पास किसी वाहन को ओवरटेक करना चाहते हैं। आप:",
+    "a_hi": "हॉर्न नहीं बजाएंगे"
+  },
+  {
+    "id": 50,
+    "q_en": "Using unregistered vehicle in public place is:",
+    "a_en": "Illegal",
+    "q_hi": "सार्वजनिक स्थान पर अपंजीकृत वाहन का उपयोग करना:",
+    "a_hi": "गैरकानूनी है"
+  },
+  {
+    "id": 51,
+    "q_en": "Minimum age for obtaining driving licence for transport vehicles:",
+    "a_en": "20 years",
+    "q_hi": "परिवहन (कमर्शियल) वाहनों के लिए ड्राइविंग लाइसेंस प्राप्त करने की न्यूनतम आयु:",
+    "a_hi": "20 वर्ष"
+  },
+  {
+    "id": 52,
+    "q_en": "Overtaking is prohibited in the following case:",
+    "a_en": "Narrow bridge",
+    "q_hi": "निम्नलिखित स्थिति में ओवरटेक करना निषिद्ध है:",
+    "a_hi": "संकरा पुल"
+  },
+  {
+    "id": 53,
+    "q_en": "If a person in charge of an animal requests to stop a vehicle:",
+    "a_en": "The driver shall stop the vehicle",
+    "q_hi": "यदि किसी पशु का प्रभारी व्यक्ति वाहन रोकने का अनुरोध करता है:",
+    "a_hi": "चालक को वाहन रोक देना चाहिए"
+  },
+  {
+    "id": 54,
+    "q_en": "Parking prohibited in the following case:",
+    "a_en": "Near traffic light / Pedestrian crossing",
+    "q_hi": "निम्नलिखित स्थिति में पार्किंग निषिद्ध है:",
+    "a_hi": "ट्रैफिक लाइट / पैदल पारपथ के पास"
+  },
+  {
+    "id": 55,
+    "q_en": "Over speeding:",
+    "a_en": "Is an offence leading to suspension or cancellation of driving licence and fine",
+    "q_hi": "अत्यधिक गति से वाहन चलाना:",
+    "a_hi": "एक अपराध है जिससे ड्राइविंग लाइसेंस का निलंबन या रद्दीकरण और जुर्माना हो सकता है"
+  },
+  {
+    "id": 56,
+    "q_en": "When school buses are stopped for picking up or setting down students:",
+    "a_en": "Proceed slowly and cautiously since students may suddenly cross the road",
+    "q_hi": "जब स्कूली बसें छात्रों को चढ़ाने या उतारने के लिए रुकी हों:",
+    "a_hi": "धीमी गति और सावधानी से आगे बढ़ें क्योंकि छात्र अचानक सड़क पार कर सकते हैं"
+  },
+  {
+    "id": 57,
+    "q_en": "When a blind person crosses the road holding White Cane:",
+    "a_en": "Consider the white cane as a traffic sign to stop the vehicle",
+    "q_hi": "जब कोई दृष्टिबाधित व्यक्ति सफेद छड़ी लेकर सड़क पार कर रहा हो:",
+    "a_hi": "सफेद छड़ी को वाहन रोकने का यातायात संकेत मानकर वाहन रोकें"
+  },
+  {
+    "id": 58,
+    "q_en": "When a motor vehicle is involved in an accident:",
+    "a_en": "Shall report to the nearest police station within 24 hours",
+    "q_hi": "जब कोई मोटर वाहन दुर्घटनाग्रस्त हो जाता है:",
+    "a_hi": "24 घंटे के भीतर निकटतम पुलिस स्टेशन में रिपोर्ट करनी चाहिए"
+  },
+  {
+    "id": 59,
+    "q_en": "When any property of a third party is damaged due to an accident:",
+    "a_en": "Report to the nearest police station within 24 hours",
+    "q_hi": "जब दुर्घटना के कारण किसी तीसरे पक्ष की संपत्ति को नुकसान पहुँचता है:",
+    "a_hi": "24 घंटे के भीतर निकटतम पुलिस स्टेशन में रिपोर्ट करनी चाहिए"
+  },
+  {
+    "id": 60,
+    "q_en": "When the vehicle behind has begun to overtake our vehicle:",
+    "a_en": "We shall not overtake another vehicle",
+    "q_hi": "जब पीछे वाले वाहन ने हमारे वाहन को ओवरटेक करना शुरू कर दिया हो:",
+    "a_hi": "हमें किसी अन्य वाहन को ओवरटेक नहीं करना चाहिए"
+  },
+  {
+    "id": 61,
+    "q_en": "The driver of the vehicle in front has not given signal for overtaking, we:",
+    "a_en": "Shall not overtake",
+    "q_hi": "आगे चल रहे वाहन के चालक ने ओवरटेक करने का संकेत नहीं दिया है, तो हमें:",
+    "a_hi": "ओवरटेक नहीं करना चाहिए"
+  },
+  {
+    "id": 62,
+    "q_en": "When driving on a road with no street lights and no oncoming vehicles:",
+    "a_en": "High beam headlight may be used",
+    "q_hi": "जब बिना स्ट्रीट लाइट वाली सड़क पर कोई सामने से वाहन न आ रहा हो:",
+    "a_hi": "हाई बीम हेडलाइट का उपयोग किया जा सकता है"
+  },
+  {
+    "id": 63,
+    "q_en": "When a vehicle is parked on a slope/gradient:",
+    "a_en": "Engage gear and apply hand brake",
+    "q_hi": "जब वाहन किसी ढलान पर खड़ा किया जाता है:",
+    "a_hi": "गियर लगाएं और हैंड ब्रेक लगाएं"
+  },
+  {
+    "id": 64,
+    "q_en": "Stop sign means:",
+    "a_en": "Driver must stop completely before the stop line and proceed only when safe",
+    "q_hi": "स्टॉप (रुकिए) संकेत का अर्थ है:",
+    "a_hi": "चालक को स्टॉप लाइन से पहले पूरी तरह रुकना चाहिए और सुरक्षित होने पर ही आगे बढ़ना चाहिए"
+  },
+  {
+    "id": 65,
+    "q_en": "Give Way sign is shaped like:",
+    "a_en": "Inverted triangle (red border, white background)",
+    "q_hi": "रास्ता दें (Give Way) संकेत का आकार होता है:",
+    "a_hi": "उल्टा त्रिभुज (लाल बॉर्डर, सफेद पृष्ठभूमि)"
+  },
+  {
+    "id": 66,
+    "q_en": "No Entry sign indicates:",
+    "a_en": "Entry is prohibited for all vehicles",
+    "q_hi": "प्रवेश निषेध (No Entry) संकेत दर्शाता है:",
+    "a_hi": "सभी वाहनों का प्रवेश वर्जित है"
+  },
+  {
+    "id": 67,
+    "q_en": "One Way sign indicates:",
+    "a_en": "Traffic is permitted to move in one direction only",
+    "q_hi": "एकतरफा मार्ग (One Way) संकेत दर्शाता है:",
+    "a_hi": "यातायात को केवल एक ही दिशा में चलने की अनुमति है"
+  },
+  {
+    "id": 68,
+    "q_en": "Vehicles prohibited in both directions sign means:",
+    "a_en": "Road is closed for all vehicular traffic from both ends",
+    "q_hi": "दोनों दिशाओं में वाहन निषिद्ध संकेत का अर्थ है:",
+    "a_hi": "दोनों ओर से सभी वाहनों के आवागमन के लिए सड़क बंद है"
+  },
+  {
+    "id": 69,
+    "q_en": "Horn Prohibited sign is usually placed near:",
+    "a_en": "Hospitals, schools, and courts",
+    "q_hi": "हॉर्न बजाना निषेध संकेत आमतौर पर कहाँ लगाया जाता है?",
+    "a_hi": "अस्पतालों, स्कूलों और न्यायालयों के पास"
+  },
+  {
+    "id": 70,
+    "q_en": "Compulsory Turn Left sign is shaped like:",
+    "a_en": "Blue circle with white left arrow",
+    "q_hi": "अनिवार्य बाएं मुड़ें संकेत का आकार होता है:",
+    "a_hi": "सफेद बाएं तीर वाला नीला वृत्त"
+  },
+  {
+    "id": 71,
+    "q_en": "Speed Limit sign is shaped like:",
+    "a_en": "Red circle with white background and speed number in black",
+    "q_hi": "गति सीमा संकेत का आकार होता है:",
+    "a_hi": "सफेद पृष्ठभूमि और काले रंग में गति संख्या वाला लाल वृत्त"
+  },
+  {
+    "id": 72,
+    "q_en": "No Parking sign has:",
+    "a_en": "Blue circular background with red border and a single diagonal red bar",
+    "q_hi": "नो पार्किंग संकेत में होता है:",
+    "a_hi": "लाल बॉर्डर और एक तिरछी लाल पट्टी के साथ नीली गोलाकार पृष्ठभूमि"
+  },
+  {
+    "id": 73,
+    "q_en": "No Stopping or Standing sign has:",
+    "a_en": "Blue circular background with red border and a red cross (X)",
+    "q_hi": "रुकना या खड़ा होना निषेध संकेत में होता है:",
+    "a_hi": "लाल बॉर्डर और लाल क्रॉस (X) के साथ नीली गोलाकार पृष्ठभूमि"
+  },
+  {
+    "id": 74,
+    "q_en": "Right Hair Pin Bend sign warns of:",
+    "a_en": "A sharp U-like turn to the right ahead",
+    "q_hi": "दाहिना हेयर पिन मोड़ संकेत चेतावनी देता है:",
+    "a_hi": "आगे दाईं ओर तीखे यू (U) जैसे मोड़ की"
+  },
+  {
+    "id": 75,
+    "q_en": "Left Reverse Bend sign warns of:",
+    "a_en": "A Z-shaped curve starting to the left",
+    "q_hi": "बायां रिवर्स मोड़ संकेत चेतावनी देता है:",
+    "a_hi": "बाईं ओर से शुरू होने वाले Z-आकार के मोड़ की"
+  },
+  {
+    "id": 76,
+    "q_en": "Steep Ascent sign warns of:",
+    "a_en": "A steep uphill climb ahead",
+    "q_hi": "तीव्र चढ़ाई संकेत चेतावनी देता है:",
+    "a_hi": "आगे खड़ी चढ़ाई की"
+  },
+  {
+    "id": 77,
+    "q_en": "Steep Descent sign warns of:",
+    "a_en": "A steep downhill slope ahead",
+    "q_hi": "तीव्र ढलान संकेत चेतावनी देता है:",
+    "a_hi": "आगे खड़ी ढलान की"
+  },
+  {
+    "id": 78,
+    "q_en": "Narrow Road Ahead sign is:",
+    "a_en": "A warning sign in a red-bordered triangle",
+    "q_hi": "आगे संकरी सड़क है संकेत है:",
+    "a_hi": "लाल बॉर्डर वाले त्रिभुज में एक चेतावनी संकेत"
+  },
+  {
+    "id": 79,
+    "q_en": "Road Widens Ahead sign indicates:",
+    "a_en": "The narrow road is becoming wider ahead",
+    "q_hi": "आगे सड़क चौड़ी है संकेत दर्शाता है:",
+    "a_hi": "संकरी सड़क आगे चौड़ी हो रही है"
+  },
+  {
+    "id": 80,
+    "q_en": "Slippery Road sign warns drivers to:",
+    "a_en": "Slow down and avoid sudden braking",
+    "q_hi": "फिसलन भरी सड़क संकेत चालकों को चेतावनी देता है:",
+    "a_hi": "गति धीमी करें और अचानक ब्रेक लगाने से बचें"
+  },
+  {
+    "id": 81,
+    "q_en": "Loose Gravel sign warns of:",
+    "a_en": "Scattered stones/gravel on road; slow down and keep safe distance",
+    "q_hi": "बिखरी बजरी संकेत चेतावनी देता है:",
+    "a_hi": "सड़क पर बिखरे पत्थरों/बजरी की; गति धीमी करें और सुरक्षित दूरी रखें"
+  },
+  {
+    "id": 82,
+    "q_en": "Cycle Crossing sign is:",
+    "a_en": "A triangular warning sign with a bicycle symbol",
+    "q_hi": "साइकिल क्रॉसिंग संकेत है:",
+    "a_hi": "साइकिल के चिह्न वाला एक त्रिभुजाकार चेतावनी संकेत"
+  },
+  {
+    "id": 83,
+    "q_en": "Pedestrian Crossing sign (warning) is:",
+    "a_en": "A red-bordered triangle with a walking person symbol",
+    "q_hi": "पैदल पारपथ (चेतावनी) संकेत है:",
+    "a_hi": "चलते हुए व्यक्ति के चिह्न वाला लाल बॉर्डर का त्रिभुज"
+  },
+  {
+    "id": 84,
+    "q_en": "Pedestrian Crossing sign (informatory) is:",
+    "a_en": "A blue square with a white triangle and walking person",
+    "q_hi": "पैदल पारपथ (सूचनात्मक) संकेत है:",
+    "a_hi": "सफेद त्रिभुज और चलते हुए व्यक्ति वाला नीला वर्ग"
+  },
+  {
+    "id": 85,
+    "q_en": "School Ahead sign shows:",
+    "a_en": "Two children walking inside a red-bordered triangle",
+    "q_hi": "आगे स्कूल है संकेत दर्शाता है:",
+    "a_hi": "लाल बॉर्डर वाले त्रिभुज के अंदर चलते हुए दो बच्चे"
+  },
+  {
+    "id": 86,
+    "q_en": "Men at Work sign indicates:",
+    "a_en": "Road repair/construction work is going on ahead; slow down",
+    "q_hi": "आगे काम चल रहा है संकेत दर्शाता है:",
+    "a_hi": "आगे सड़क मरम्मत/निर्माण कार्य चल रहा है; गति धीमी करें"
+  },
+  {
+    "id": 87,
+    "q_en": "Cattle sign warns of:",
+    "a_en": "Possibility of stray cattle on the road",
+    "q_hi": "पशु संकेत चेतावनी देता है:",
+    "a_hi": "सड़क पर आवारा पशुओं की संभावना की"
+  },
+  {
+    "id": 88,
+    "q_en": "Falling Rocks sign warns of:",
+    "a_en": "Landslides or falling stones in hilly areas",
+    "q_hi": "गिरती चट्टानें संकेत चेतावनी देता है:",
+    "a_hi": "पहाड़ी क्षेत्रों में भूस्खलन या पत्थर गिरने की"
+  },
+  {
+    "id": 89,
+    "q_en": "Ferry sign indicates:",
+    "a_en": "A river crossing by ferry/boat ahead",
+    "q_hi": "नौका (फेरी) संकेत दर्शाता है:",
+    "a_hi": "आगे नाव/फेरी द्वारा नदी पार करने का मार्ग है"
+  },
+  {
+    "id": 90,
+    "q_en": "Cross Road sign warns of:",
+    "a_en": "An intersection of two roads ahead",
+    "q_hi": "चौराहा (Cross Road) संकेत चेतावनी देता है:",
+    "a_hi": "आगे दो सड़कों के मिलन बिंदु की"
+  },
+  {
+    "id": 91,
+    "q_en": "Gap in Median sign indicates:",
+    "a_en": "An opening in the road divider for turning/crossing",
+    "q_hi": "मध्य पट्टी में अंतराल संकेत दर्शाता है:",
+    "a_hi": "मुड़ने/पार करने के लिए सड़क डिवाइडर में खुला स्थान"
+  },
+  {
+    "id": 92,
+    "q_en": "Side Road Right sign indicates:",
+    "a_en": "A minor road joining from the right",
+    "q_hi": "दाईं ओर पार्श्व सड़क संकेत दर्शाता है:",
+    "a_hi": "दाईं ओर से जुड़ने वाली एक छोटी सड़क"
+  },
+  {
+    "id": 93,
+    "q_en": "Y-Intersection sign indicates:",
+    "a_en": "The road splits into two directions ahead",
+    "q_hi": "Y-चौराहा संकेत दर्शाता है:",
+    "a_hi": "आगे सड़क दो दिशाओं में विभाजित होती है"
+  },
+  {
+    "id": 94,
+    "q_en": "T-Intersection sign indicates:",
+    "a_en": "The road ends ahead and joins a perpendicular road",
+    "q_hi": "T-चौराहा संकेत दर्शाता है:",
+    "a_hi": "आगे सड़क समाप्त होती है और लंबवत सड़क से जुड़ती है"
+  },
+  {
+    "id": 95,
+    "q_en": "Major Road Ahead sign warns that:",
+    "a_en": "You are approaching a main road; give way to traffic on it",
+    "q_hi": "आगे मुख्य सड़क है संकेत चेतावनी देता है कि:",
+    "a_hi": "आप मुख्य सड़क के पास पहुँच रहे हैं; उस पर चल रहे यातायात को रास्ता दें"
+  },
+  {
+    "id": 96,
+    "q_en": "Roundabout sign warns of:",
+    "a_en": "A circular traffic island ahead; give way to traffic on your right",
+    "q_hi": "गोल चक्कर संकेत चेतावनी देता है:",
+    "a_hi": "आगे गोलाकार यातायात द्वीप की; अपनी दाईं ओर के यातायात को रास्ता दें"
+  },
+  {
+    "id": 97,
+    "q_en": "Dangerous Dip sign warns of:",
+    "a_en": "A sudden depression/dip in the road surface",
+    "q_hi": "खतरनाक गड्ढा/ढलान संकेत चेतावनी देता है:",
+    "a_hi": "सड़क की सतह में अचानक गहरे गड्ढे/ढलान की"
+  },
+  {
+    "id": 98,
+    "q_en": "Hump or Rough Road sign warns of:",
+    "a_en": "A speed breaker or uneven road ahead",
+    "q_hi": "उभार या ऊबड़-खाबड़ सड़क संकेत चेतावनी देता है:",
+    "a_hi": "आगे स्पीड ब्रेकर या असमान सड़क की"
+  },
+  {
+    "id": 99,
+    "q_en": "Barrier Ahead sign warns of:",
+    "a_en": "A toll gate, check-post, or railway barrier ahead",
+    "q_hi": "आगे अवरोधक (बैरियर) संकेत चेतावनी देता है:",
+    "a_hi": "आगे टोल गेट, चेक-पोस्ट या रेलवे फाटक की"
+  },
+  {
+    "id": 100,
+    "q_en": "Guarded Railway Crossing sign shows:",
+    "a_en": "A fence/gate symbol inside a red-bordered triangle",
+    "q_hi": "रक्षित रेलवे क्रॉसिंग संकेत दर्शाता है:",
+    "a_hi": "लाल बॉर्डर वाले त्रिभुज के अंदर बाड़/फाटक का चिह्न"
+  },
+  {
+    "id": 101,
+    "q_en": "Unguarded Railway Crossing sign shows:",
+    "a_en": "A train engine symbol inside a red-bordered triangle",
+    "q_hi": "अरक्षित (मानवरहित) रेलवे क्रॉसिंग संकेत दर्शाता है:",
+    "a_hi": "लाल बॉर्डर वाले त्रिभुज के अंदर ट्रेन इंजन का चिह्न"
+  },
+  {
+    "id": 102,
+    "q_en": "One red bar below a railway crossing sign means:",
+    "a_en": "Railway crossing is 100 meters ahead",
+    "q_hi": "रेलवे क्रॉसिंग संकेत के नीचे एक लाल पट्टी का अर्थ है:",
+    "a_hi": "रेलवे क्रॉसिंग 100 मीटर आगे है"
+  },
+  {
+    "id": 103,
+    "q_en": "Two red bars below a railway crossing sign mean:",
+    "a_en": "Railway crossing is 200 meters ahead",
+    "q_hi": "रेलवे क्रॉसिंग संकेत के नीचे दो लाल पट्टियों का अर्थ है:",
+    "a_hi": "रेलवे क्रॉसिंग 200 मीटर आगे है"
+  },
+  {
+    "id": 104,
+    "q_en": "Compulsory Ahead Only sign is:",
+    "a_en": "A blue circle with a white upward arrow",
+    "q_hi": "केवल आगे चलना अनिवार्य संकेत है:",
+    "a_hi": "सफेद ऊपर की ओर तीर वाला नीला वृत्त"
+  },
+  {
+    "id": 105,
+    "q_en": "Compulsory Ahead or Turn Right sign is:",
+    "a_en": "A blue circle with a combined upward and right arrow",
+    "q_hi": "आगे चलना या दाएं मुड़ना अनिवार्य संकेत है:",
+    "a_hi": "ऊपर और दाएं संयुक्त तीर वाला नीला वृत्त"
+  },
+  {
+    "id": 106,
+    "q_en": "Compulsory Keep Left sign is:",
+    "a_en": "A blue circle with a downward-left arrow",
+    "q_hi": "अनिवार्य बाएं रहें संकेत है:",
+    "a_hi": "नीचे-बाएं तीर वाला नीला वृत्त"
+  },
+  {
+    "id": 107,
+    "q_en": "Compulsory Sound Horn sign is:",
+    "a_en": "A blue circle with a white horn symbol",
+    "q_hi": "हॉर्न बजाना अनिवार्य संकेत है:",
+    "a_hi": "सफेद हॉर्न चिह्न वाला नीला वृत्त"
+  },
+  {
+    "id": 108,
+    "q_en": "Minimum Speed Limit sign is:",
+    "a_en": "A blue circle with a speed number in white",
+    "q_hi": "न्यूनतम गति सीमा संकेत है:",
+    "a_hi": "सफेद रंग में गति संख्या वाला नीला वृत्त"
+  },
+  {
+    "id": 109,
+    "q_en": "Restriction Ends sign is:",
+    "a_en": "A white circle with a black diagonal band",
+    "q_hi": "प्रतिबंध समाप्त संकेत है:",
+    "a_hi": "काली तिरछी पट्टी वाला सफेद वृत्त"
+  },
+  {
+    "id": 110,
+    "q_en": "Public Telephone informatory sign is:",
+    "a_en": "A blue rectangle with a telephone receiver symbol",
+    "q_hi": "सार्वजनिक टेलीफोन सूचनात्मक संकेत है:",
+    "a_hi": "टेलीफोन रिसीवर चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 111,
+    "q_en": "Petrol Pump informatory sign is:",
+    "a_en": "A blue rectangle with a fuel dispenser symbol",
+    "q_hi": "पेट्रोल पंप सूचनात्मक संकेत है:",
+    "a_hi": "ईंधन पंप चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 112,
+    "q_en": "Hospital informatory sign shows:",
+    "a_en": "A bed and a red cross inside a blue rectangle",
+    "q_hi": "अस्पताल सूचनात्मक संकेत दर्शाता है:",
+    "a_hi": "नीले आयत के अंदर एक बिस्तर और लाल क्रॉस"
+  },
+  {
+    "id": 113,
+    "q_en": "First Aid Post sign shows:",
+    "a_en": "A red cross inside a blue rectangle",
+    "q_hi": "प्राथमिक चिकित्सा केंद्र संकेत दर्शाता है:",
+    "a_hi": "नीले आयत के अंदर एक लाल क्रॉस"
+  },
+  {
+    "id": 114,
+    "q_en": "Eating Place sign shows:",
+    "a_en": "A spoon and fork inside a blue rectangle",
+    "q_hi": "भोजनालय संकेत दर्शाता है:",
+    "a_hi": "नीले आयत के अंदर चम्मच और कांटा"
+  },
+  {
+    "id": 115,
+    "q_en": "Light Refreshment sign shows:",
+    "a_en": "A cup and saucer inside a blue rectangle",
+    "q_hi": "हल्का जलपान संकेत दर्शाता है:",
+    "a_hi": "नीले आयत के अंदर कप और प्लेट"
+  },
+  {
+    "id": 116,
+    "q_en": "Resting Place sign shows:",
+    "a_en": "A bed symbol (without red cross) inside a blue rectangle",
+    "q_hi": "विश्राम स्थल संकेत दर्शाता है:",
+    "a_hi": "नीले आयत के अंदर बिस्तर का चिह्न (बिना लाल क्रॉस के)"
+  },
+  {
+    "id": 117,
+    "q_en": "No Through Road sign indicates:",
+    "a_en": "A dead-end road ahead",
+    "q_hi": "आगे बंद मार्ग संकेत दर्शाता है:",
+    "a_hi": "आगे बंद रास्ता है"
+  },
+  {
+    "id": 118,
+    "q_en": "Park This Side sign shows:",
+    "a_en": "A white 'P' inside a blue square",
+    "q_hi": "इस तरफ पार्क करें संकेत दर्शाता है:",
+    "a_hi": "नीले वर्ग के अंदर सफेद 'P'"
+  },
+  {
+    "id": 119,
+    "q_en": "Parking Both Sides sign shows:",
+    "a_en": "A white 'P' with left and right arrows below it",
+    "q_hi": "दोनों तरफ पार्किंग संकेत दर्शाता है:",
+    "a_hi": "सफेद 'P' जिसके नीचे बाएं और दाएं तीर हैं"
+  },
+  {
+    "id": 120,
+    "q_en": "Taxi Stand sign shows:",
+    "a_en": "A blue rectangle with 'TAXI' written in white",
+    "q_hi": "टैक्सी स्टैंड संकेत दर्शाता है:",
+    "a_hi": "नीला आयत जिस पर सफेद रंग में 'TAXI' लिखा है"
+  },
+  {
+    "id": 121,
+    "q_en": "Auto Rickshaw Stand sign shows:",
+    "a_en": "A blue rectangle with an auto-rickshaw symbol",
+    "q_hi": "ऑटो रिक्शा स्टैंड संकेत दर्शाता है:",
+    "a_hi": "ऑटो-रिक्शा चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 122,
+    "q_en": "Cycle Stand sign shows:",
+    "a_en": "A blue rectangle with a bicycle symbol",
+    "q_hi": "साइकिल स्टैंड संकेत दर्शाता है:",
+    "a_hi": "साइकिल चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 123,
+    "q_en": "Flood Gauge sign indicates:",
+    "a_en": "The water level mark on a causeway or low-lying bridge",
+    "q_hi": "बाढ़ गेज संकेत दर्शाता है:",
+    "a_hi": "निचले पुल या रपटे पर जल स्तर का निशान"
+  },
+  {
+    "id": 124,
+    "q_en": "Amber (Yellow) traffic light means:",
+    "a_en": "Clear the intersection if already entered, or stop before the stop line if safe",
+    "q_hi": "पीली (अंबर) ट्रैफिक लाइट का अर्थ है:",
+    "a_hi": "यदि चौराहे में प्रवेश कर चुके हैं तो पार करें, या सुरक्षित हो तो स्टॉप लाइन से पहले रुकें"
+  },
+  {
+    "id": 125,
+    "q_en": "Flashing Red traffic light means:",
+    "a_en": "Stop completely, look carefully, and proceed only when safe",
+    "q_hi": "चमकती लाल ट्रैफिक लाइट का अर्थ है:",
+    "a_hi": "पूरी तरह रुकें, ध्यान से देखें और सुरक्षित होने पर ही आगे बढ़ें"
+  },
+  {
+    "id": 126,
+    "q_en": "Flashing Amber traffic light means:",
+    "a_en": "Slow down and proceed with caution",
+    "q_hi": "चमकती पीली ट्रैफिक लाइट का अर्थ है:",
+    "a_hi": "गति धीमी करें और सावधानी से आगे बढ़ें"
+  },
+  {
+    "id": 127,
+    "q_en": "Green Arrow traffic light means:",
+    "a_en": "Proceed in the direction shown by the arrow with caution",
+    "q_hi": "हरे तीर वाली ट्रैफिक लाइट का अर्थ है:",
+    "a_hi": "सावधानी के साथ तीर द्वारा दिखाई गई दिशा में आगे बढ़ें"
+  },
+  {
+    "id": 128,
+    "q_en": "Continuous single white or yellow center line means:",
+    "a_en": "Do not cross the line to overtake; stay in your lane",
+    "q_hi": "सड़क के बीच लगातार एकल सफेद या पीली रेखा का अर्थ है:",
+    "a_hi": "ओवरटेक करने के लिए रेखा पार न करें; अपनी लेन में रहें"
+  },
+  {
+    "id": 129,
+    "q_en": "Broken white center line means:",
+    "a_en": "You may change lanes or overtake when safe to do so",
+    "q_hi": "सड़क के बीच टूटी हुई सफेद रेखा का अर्थ है:",
+    "a_hi": "सुरक्षित होने पर आप लेन बदल सकते हैं या ओवरटेक कर सकते हैं"
+  },
+  {
+    "id": 130,
+    "q_en": "Double continuous yellow lines mean:",
+    "a_en": "Strictly no crossing or overtaking from either direction",
+    "q_hi": "दोहरी लगातार पीली रेखाओं का अर्थ है:",
+    "a_hi": "किसी भी दिशा से रेखा पार करना या ओवरटेक करना सख्त मना है"
+  },
+  {
+    "id": 131,
+    "q_en": "Broken line alongside a continuous line means:",
+    "a_en": "Vehicles on broken-line side may overtake; continuous-line side must not",
+    "q_hi": "लगातार रेखा के साथ टूटी हुई रेखा का अर्थ है:",
+    "a_hi": "टूटी रेखा की ओर के वाहन ओवरटेक कर सकते हैं; लगातार रेखा की ओर के वाहन नहीं"
+  },
+  {
+    "id": 132,
+    "q_en": "Yellow painted curb/edge line means:",
+    "a_en": "No parking or waiting along that edge",
+    "q_hi": "पीले रंग से रंगी सड़क की किनारी (कर्ब) का अर्थ है:",
+    "a_hi": "उस किनारे पर पार्किंग या प्रतीक्षा करना निषिद्ध है"
+  },
+  {
+    "id": 133,
+    "q_en": "Box Junction (yellow criss-cross lines at intersection) means:",
+    "a_en": "Do not enter the yellow box unless your exit road is clear",
+    "q_hi": "बॉक्स जंक्शन (चौराहे पर पीली आड़ी-तिरछी रेखाएं) का अर्थ है:",
+    "a_hi": "पीले बॉक्स में तब तक प्रवेश न करें जब तक आगे निकलने का रास्ता साफ न हो"
+  },
+  {
+    "id": 134,
+    "q_en": "Stop Line at a junction is:",
+    "a_en": "A thick white transverse line before the pedestrian crossing where vehicles must stop",
+    "q_hi": "चौराहे पर स्टॉप लाइन होती है:",
+    "a_hi": "पैदल पारपथ से पहले एक मोटी सफेद आड़ी रेखा जहाँ वाहनों को रुकना चाहिए"
+  },
+  {
+    "id": 135,
+    "q_en": "When a traffic police officer raises his right hand vertically with palm facing forward:",
+    "a_en": "All traffic approaching from front must stop",
+    "q_hi": "जब यातायात पुलिस अधिकारी हथेली सामने करके अपना दाहिना हाथ सीधा ऊपर उठाता है:",
+    "a_hi": "सामने से आने वाले सभी यातायात को रुकना होगा"
+  },
+  {
+    "id": 136,
+    "q_en": "When a traffic police officer extends both arms horizontally:",
+    "a_en": "Traffic approaching from front and behind must stop",
+    "q_hi": "जब यातायात पुलिस अधिकारी दोनों हाथ क्षैतिज रूप से फैलाता है:",
+    "a_hi": "आगे और पीछे से आने वाले यातायात को रुकना होगा"
+  },
+  {
+    "id": 137,
+    "q_en": "When a traffic police officer beckons with his hand:",
+    "a_en": "The traffic in that direction may proceed",
+    "q_hi": "जब यातायात पुलिस अधिकारी हाथ से इशारा करता है:",
+    "a_hi": "उस दिशा का यातायात आगे बढ़ सकता है"
+  },
+  {
+    "id": 138,
+    "q_en": "Hand signal for turning right:",
+    "a_en": "Extend right arm straight out horizontally with palm facing forward",
+    "q_hi": "दाईं ओर मुड़ने का हाथ का संकेत:",
+    "a_hi": "हथेली सामने रखते हुए दाहिने हाथ को सीधा क्षैतिज रूप से बाहर फैलाएं"
+  },
+  {
+    "id": 139,
+    "q_en": "Hand signal for turning left (by car driver):",
+    "a_en": "Extend right arm horizontally and rotate it in an anti-clockwise direction",
+    "q_hi": "बाईं ओर मुड़ने का हाथ का संकेत (कार चालक द्वारा):",
+    "a_hi": "दाहिने हाथ को क्षैतिज रूप से बाहर निकालें और वामावर्त (घड़ी की विपरीत दिशा में) घुमाएं"
+  },
+  {
+    "id": 140,
+    "q_en": "Hand signal for stopping:",
+    "a_en": "Raise right forearm vertically outside the window with palm facing forward",
+    "q_hi": "रुकने के लिए हाथ का संकेत:",
+    "a_hi": "हथेली सामने रखते हुए दाहिने हाथ को खिड़की के बाहर सीधा ऊपर उठाएं"
+  },
+  {
+    "id": 141,
+    "q_en": "Hand signal for allowing vehicle behind to overtake:",
+    "a_en": "Extend right arm horizontally and swing it forward and backward",
+    "q_hi": "पीछे वाले वाहन को ओवरटेक करने की अनुमति देने का संकेत:",
+    "a_hi": "दाहिने हाथ को बाहर निकालें और आगे-पीछे अर्ध-गोलाकार घुमाएं"
+  },
+  {
+    "id": 142,
+    "q_en": "Wearing a helmet is mandatory for:",
+    "a_en": "Both rider and pillion rider on a two-wheeler (except Sikhs wearing a turban)",
+    "q_hi": "हेलमेट पहनना अनिवार्य है:",
+    "a_hi": "दोपहिया वाहन के चालक और पीछे बैठने वाले दोनों के लिए (पगड़ी पहनने वाले सिखों को छोड़कर)"
+  },
+  {
+    "id": 143,
+    "q_en": "Helmet strap must be:",
+    "a_en": "Properly fastened securely under the chin",
+    "q_hi": "हेलमेट की पट्टी (स्ट्रैप) होनी चाहिए:",
+    "a_hi": "ठुड्डी के नीचे अच्छी तरह से सुरक्षित रूप से बंधी हुई"
+  },
+  {
+    "id": 144,
+    "q_en": "Standard mark required on a protective helmet in India:",
+    "a_en": "ISI mark (IS 4151)",
+    "q_hi": "भारत में सुरक्षात्मक हेलमेट पर आवश्यक मानक चिह्न:",
+    "a_hi": "ISI मार्क (IS 4151)"
+  },
+  {
+    "id": 145,
+    "q_en": "Seat belt is compulsory for:",
+    "a_en": "Driver and all passengers seated in front-facing seats of a motor car",
+    "q_hi": "सीट बेल्ट अनिवार्य है:",
+    "a_hi": "मोटर कार के चालक और आगे की ओर मुंह करके बैठने वाले सभी यात्रियों के लिए"
+  },
+  {
+    "id": 146,
+    "q_en": "Maximum permissible Blood Alcohol Concentration (BAC) for driving in India:",
+    "a_en": "30 mg of alcohol per 100 ml of blood (0.03%)",
+    "q_hi": "भारत में वाहन चलाने के लिए रक्त में अल्कोहल की अधिकतम अनुमत मात्रा (BAC):",
+    "a_hi": "प्रति 100 मिली रक्त में 30 मिलीग्राम अल्कोहल (0.03%)"
+  },
+  {
+    "id": 147,
+    "q_en": "Punishment for drunken driving under Section 185 (first offence):",
+    "a_en": "Fine up to ₹10,000 and/or imprisonment up to 6 months",
+    "q_hi": "धारा 185 के तहत शराब पीकर गाड़ी चलाने की सजा (पहला अपराध):",
+    "a_hi": "₹10,000 तक का जुर्माना और/या 6 महीने तक की कैद"
+  },
+  {
+    "id": 148,
+    "q_en": "Penalty for driving without a valid Driving Licence (Section 181):",
+    "a_en": "Fine of ₹5,000",
+    "q_hi": "वैध ड्राइविंग लाइसेंस के बिना वाहन चलाने पर जुर्माना (धारा 181):",
+    "a_hi": "₹5,000 का जुर्माना"
+  },
+  {
+    "id": 149,
+    "q_en": "Penalty for driving without insurance (Section 196):",
+    "a_en": "Fine of ₹2,000 and/or imprisonment up to 3 months (first offence)",
+    "q_hi": "बिना बीमा के वाहन चलाने पर जुर्माना (धारा 196):",
+    "a_hi": "₹2,000 का जुर्माना और/या 3 महीने तक की कैद (पहला अपराध)"
+  },
+  {
+    "id": 150,
+    "q_en": "Penalty for not wearing helmet (Section 194D):",
+    "a_en": "Fine of ₹1,000 and disqualification of licence for 3 months",
+    "q_hi": "हेलमेट न पहनने पर जुर्माना (धारा 194D):",
+    "a_hi": "₹1,000 का जुर्माना और 3 महीने के लिए लाइसेंस निलंबित"
+  },
+  {
+    "id": 151,
+    "q_en": "Penalty for not wearing seat belt (Section 194B):",
+    "a_en": "Fine of ₹1,000",
+    "q_hi": "सीट बेल्ट न लगाने पर जुर्माना (धारा 194B):",
+    "a_hi": "₹1,000 का जुर्माना"
+  },
+  {
+    "id": 152,
+    "q_en": "Penalty for not giving way to emergency vehicles (Section 194E):",
+    "a_en": "Fine of ₹10,000 and/or imprisonment up to 6 months",
+    "q_hi": "आपातकालीन वाहनों को रास्ता न देने पर जुर्माना (धारा 194E):",
+    "a_hi": "₹10,000 का जुर्माना और/या 6 महीने तक की कैद"
+  },
+  {
+    "id": 153,
+    "q_en": "Penalty for juvenile driving offence (Section 199A):",
+    "a_en": "Guardian fined ₹25,000, 3 years jail, RC cancelled 12 months, ineligible for DL till age 25",
+    "q_hi": "नाबालिग द्वारा वाहन चलाने के अपराध पर सजा (धारा 199A):",
+    "a_hi": "अभिभावक को ₹25,000 जुर्माना, 3 साल जेल, 12 महीने RC रद्द, 25 वर्ष तक लाइसेंस के लिए अयोग्य"
+  },
+  {
+    "id": 154,
+    "q_en": "Penalty for using handheld mobile phone while driving (Section 184):",
+    "a_en": "Fine up to ₹5,000 (first offence)",
+    "q_hi": "वाहन चलाते समय हाथ में मोबाइल फोन का उपयोग करने पर जुर्माना (धारा 184):",
+    "a_hi": "₹5,000 तक का जुर्माना (पहला अपराध)"
+  },
+  {
+    "id": 155,
+    "q_en": "Penalty for triple riding on a two-wheeler (Section 194C):",
+    "a_en": "Fine of ₹1,000 and licence suspension for 3 months",
+    "q_hi": "दोपहिया वाहन पर तीन सवारी बैठाने पर जुर्माना (धारा 194C):",
+    "a_hi": "₹1,000 का जुर्माना और 3 महीने के लिए लाइसेंस निलंबित"
+  },
+  {
+    "id": 156,
+    "q_en": "What is a 'Good Samaritan' under Motor Vehicles Act (Section 134A)?",
+    "a_en": "A person who voluntarily and without reward helps an accident victim in good faith",
+    "q_hi": "मोटर वाहन अधिनियम (धारा 134A) के तहत 'नेक इंसान (Good Samaritan)' कौन है?",
+    "a_hi": "वह व्यक्ति जो बिना किसी लालच के स्वेच्छा से दुर्घटना पीड़ित की मदद करता है"
+  },
+  {
+    "id": 157,
+    "q_en": "Legal protection given to a Good Samaritan:",
+    "a_en": "Cannot be held liable for civil/criminal action or forced to reveal identity or stay at hospital/police station",
+    "q_hi": "नेक इंसान (Good Samaritan) को दी गई कानूनी सुरक्षा:",
+    "a_hi": "उस पर कोई दीवानी/आपराधिक कार्रवाई नहीं होगी और न ही पहचान बताने या रुकने के लिए मजबूर किया जाएगा"
+  },
+  {
+    "id": 158,
+    "q_en": "Golden Hour in road accidents refers to:",
+    "a_en": "The first one hour after a traumatic injury during which prompt medical treatment can prevent death",
+    "q_hi": "सड़क दुर्घटनाओं में 'गोल्डन ऑवर' का अर्थ है:",
+    "a_hi": "गंभीर चोट लगने के बाद का पहला एक घंटा जिसमें त्वरित उपचार से जान बचाई जा सकती है"
+  },
+  {
+    "id": 159,
+    "q_en": "Third-party insurance for a motor vehicle is:",
+    "a_en": "Mandatory by law under the Motor Vehicles Act",
+    "q_hi": "मोटर वाहन के लिए थर्ड-पार्टी बीमा:",
+    "a_hi": "मोटर वाहन अधिनियम के तहत कानून द्वारा अनिवार्य है"
+  },
+  {
+    "id": 160,
+    "q_en": "Comprehensive motor insurance covers:",
+    "a_en": "Both third-party liability and own-vehicle damage",
+    "q_hi": "व्यापक (Comprehensive) मोटर बीमा कवर करता है:",
+    "a_hi": "तृतीय-पक्ष देयता और स्वयं के वाहन की क्षति दोनों"
+  },
+  {
+    "id": 161,
+    "q_en": "What does PUCC stand for?",
+    "a_en": "Pollution Under Control Certificate",
+    "q_hi": "PUCC का पूरा नाम क्या है?",
+    "a_hi": "प्रदूषण नियंत्रण प्रमाण पत्र (Pollution Under Control Certificate)"
+  },
+  {
+    "id": 162,
+    "q_en": "What does HSRP stand for?",
+    "a_en": "High Security Registration Plate",
+    "q_hi": "HSRP का पूरा नाम क्या है?",
+    "a_hi": "हाई सिक्योरिटी रजिस्ट्रेशन प्लेट"
+  },
+  {
+    "id": 163,
+    "q_en": "Color of HSRP plate for private non-transport vehicles:",
+    "a_en": "White background with black lettering",
+    "q_hi": "निजी गैर-परिवहन वाहनों के लिए HSRP प्लेट का रंग:",
+    "a_hi": "सफेद पृष्ठभूमि पर काले अक्षर"
+  },
+  {
+    "id": 164,
+    "q_en": "Color of HSRP plate for commercial transport vehicles:",
+    "a_en": "Yellow background with black lettering",
+    "q_hi": "व्यावसायिक परिवहन वाहनों के लिए HSRP प्लेट का रंग:",
+    "a_hi": "पीली पृष्ठभूमि पर काले अक्षर"
+  },
+  {
+    "id": 165,
+    "q_en": "Color of HSRP plate for Electric Vehicles (private):",
+    "a_en": "Green background with white lettering",
+    "q_hi": "इलेक्ट्रिक वाहनों (निजी) के लिए HSRP प्लेट का रंग:",
+    "a_hi": "हरी पृष्ठभूमि पर सफेद अक्षर"
+  },
+  {
+    "id": 166,
+    "q_en": "Color of HSRP plate for Electric Vehicles (commercial):",
+    "a_en": "Green background with yellow lettering",
+    "q_hi": "इलेक्ट्रिक वाहनों (व्यावसायिक) के लिए HSRP प्लेट का रंग:",
+    "a_hi": "हरी पृष्ठभूमि पर पीले अक्षर"
+  },
+  {
+    "id": 167,
+    "q_en": "Color of number plate for self-drive rental vehicles:",
+    "a_en": "Black background with yellow lettering",
+    "q_hi": "सेल्फ-ड्राइव किराये के वाहनों की नंबर प्लेट का रंग:",
+    "a_hi": "काली पृष्ठभूमि पर पीले अक्षर"
+  },
+  {
+    "id": 168,
+    "q_en": "Color of number plate for Diplomatic / Embassy vehicles:",
+    "a_en": "Light blue background with white lettering",
+    "q_hi": "राजनयिक / दूतावास वाहनों की नंबर प्लेट का रंग:",
+    "a_hi": "हल्की नीली पृष्ठभूमि पर सफेद अक्षर"
+  },
+  {
+    "id": 169,
+    "q_en": "Color of number plate for temporary registration:",
+    "a_en": "Yellow background with red lettering",
+    "q_hi": "अस्थायी पंजीकरण की नंबर प्लेट का रंग:",
+    "a_hi": "पीली पृष्ठभूमि पर लाल अक्षर"
+  },
+  {
+    "id": 170,
+    "q_en": "What does 'L' sign on a learner's vehicle signify?",
+    "a_en": "The driver is a learner; other drivers should maintain safe distance and be cautious",
+    "q_hi": "शिक्षार्थी के वाहन पर 'L' चिह्न क्या दर्शाता है?",
+    "a_hi": "चालक अभी सीख रहा है; अन्य चालकों को सुरक्षित दूरी रखनी चाहिए और सावधान रहना चाहिए"
+  },
+  {
+    "id": 171,
+    "q_en": "Specifications of 'L' plate:",
+    "a_en": "Red letter 'L' on a white square background (18 cm x 18 cm), displayed at front and rear",
+    "q_hi": "'L' प्लेट का मानक आकार और रंग:",
+    "a_hi": "सफेद वर्गाकार पृष्ठभूमि (18 सेमी x 18 सेमी) पर लाल रंग का 'L' अक्षर, आगे और पीछे लगा होना चाहिए"
+  },
+  {
+    "id": 172,
+    "q_en": "Can a Learner's Licence holder drive alone?",
+    "a_en": "No, must be accompanied by a person holding a valid permanent driving licence",
+    "q_hi": "क्या लर्नर लाइसेंस धारक अकेले वाहन चला सकता है?",
+    "a_hi": "नहीं, उसके साथ एक वैध स्थायी ड्राइविंग लाइसेंस धारक व्यक्ति होना अनिवार्य है"
+  },
+  {
+    "id": 173,
+    "q_en": "When can a Learner's Licence holder apply for a permanent driving licence test?",
+    "a_en": "After 30 days and before 180 days (6 months) from the date of issue of LL",
+    "q_hi": "लर्नर लाइसेंस धारक स्थायी ड्राइविंग लाइसेंस टेस्ट के लिए कब आवेदन कर सकता है?",
+    "a_hi": "लर्नर लाइसेंस जारी होने की तिथि से 30 दिन बाद और 180 दिन (6 महीने) से पहले"
+  },
+  {
+    "id": 174,
+    "q_en": "Maximum speed limit for motor cars on National Highways:",
+    "a_en": "100 km/h (and 120 km/h on Expressways)",
+    "q_hi": "राष्ट्रीय राजमार्गों (NH) पर मोटर कारों की अधिकतम गति सीमा:",
+    "a_hi": "100 किमी/घंटा (और एक्सप्रेसवे पर 120 किमी/घंटा)"
+  },
+  {
+    "id": 175,
+    "q_en": "Maximum speed limit for two-wheelers on National Highways:",
+    "a_en": "80 km/h",
+    "q_hi": "राष्ट्रीय राजमार्गों पर दोपहिया वाहनों की अधिकतम गति सीमा:",
+    "a_hi": "80 किमी/घंटा"
+  },
+  {
+    "id": 176,
+    "q_en": "Maximum speed limit while towing another vehicle:",
+    "a_en": "24 km/h (or 25 km/h)",
+    "q_hi": "दूसरे वाहन को टो (खींचते) समय अधिकतम गति सीमा:",
+    "a_hi": "24 किमी/घंटा (या 25 किमी/घंटा)"
+  },
+  {
+    "id": 177,
+    "q_en": "Maximum speed limit near a school, hospital, or road repair zone:",
+    "a_en": "25 km/h",
+    "q_hi": "स्कूल, अस्पताल या सड़क मरम्मत क्षेत्र के पास अधिकतम गति सीमा:",
+    "a_hi": "25 किमी/घंटा"
+  },
+  {
+    "id": 178,
+    "q_en": "Maximum speed limit for a vehicle passing a procession or marching troops:",
+    "a_en": "25 km/h",
+    "q_hi": "जुलूस या मार्च करते सैनिकों के पास से गुजरते समय अधिकतम गति सीमा:",
+    "a_hi": "25 किमी/घंटा"
+  },
+  {
+    "id": 179,
+    "q_en": "What is tailgating?",
+    "a_en": "Driving dangerously close behind the vehicle in front",
+    "q_hi": "टेलगेटिंग (Tailgating) क्या है?",
+    "a_hi": "आगे चल रहे वाहन के बिल्कुल पीछे खतरनाक रूप से सटकर वाहन चलाना"
+  },
+  {
+    "id": 180,
+    "q_en": "Two-second rule in driving is used to:",
+    "a_en": "Maintain a safe following distance from the vehicle ahead in dry conditions",
+    "q_hi": "ड्राइविंग में 'दो-सेकंड नियम' का उपयोग किया जाता है:",
+    "a_hi": "सामान्य सूखी सड़क पर आगे चल रहे वाहन से सुरक्षित दूरी बनाए रखने के लिए"
+  },
+  {
+    "id": 181,
+    "q_en": "In wet, rainy, or foggy weather, following distance should be:",
+    "a_en": "Increased to at least 4 seconds or more",
+    "q_hi": "गीले, बरसाती या कोहरे वाले मौसम में आगे वाले वाहन से दूरी होनी चाहिए:",
+    "a_hi": "कम से कम 4 सेकंड या उससे अधिक"
+  },
+  {
+    "id": 182,
+    "q_en": "Hydroplaning (aquaplaning) occurs when:",
+    "a_en": "A layer of water builds up between tyres and road surface, causing loss of traction",
+    "q_hi": "हाइड्रोप्लानिंग (एक्वाप्लानिंग) तब होती है जब:",
+    "a_hi": "टायरों और सड़क की सतह के बीच पानी की परत बन जाती है, जिससे टायरों की पकड़ छूट जाती है"
+  },
+  {
+    "id": 183,
+    "q_en": "What should you do if your vehicle starts hydroplaning?",
+    "a_en": "Ease off the accelerator gently, hold steering straight, and avoid sudden braking",
+    "q_hi": "यदि आपका वाहन हाइड्रोप्लानिंग करने लगे तो आपको क्या करना चाहिए?",
+    "a_hi": "एक्सीलेटर से पैर धीरे से हटाएं, स्टीयरिंग सीधा रखें और अचानक ब्रेक लगाने से बचें"
+  },
+  {
+    "id": 184,
+    "q_en": "What is ABS in vehicles?",
+    "a_en": "Anti-lock Braking System — prevents wheels from locking up during emergency braking",
+    "q_hi": "वाहनों में ABS क्या है?",
+    "a_hi": "एंटी-लॉक ब्रेकिंग सिस्टम — आपातकालीन ब्रेकिंग के दौरान पहियों को लॉक होने से रोकता है"
+  },
+  {
+    "id": 185,
+    "q_en": "What should you do if your vehicle's brakes fail while driving?",
+    "a_en": "Pump brake pedal rapidly, downshift to lower gears, use handbrake gradually, steer safely",
+    "q_hi": "यदि वाहन चलाते समय ब्रेक फेल हो जाएं तो क्या करना चाहिए?",
+    "a_hi": "ब्रेक पेडल को तेजी से पंप करें, निचले गियर में लाएं, धीरे-धीरे हैंडब्रेक लगाएं और सुरक्षित जगह मोड़ें"
+  },
+  {
+    "id": 186,
+    "q_en": "What should you do if a front tyre bursts while driving at high speed?",
+    "a_en": "Grip steering firmly, do NOT slam brakes, ease off accelerator, slow down gradually",
+    "q_hi": "तेज गति से चलते समय अगला टायर फट जाए तो क्या करना चाहिए?",
+    "a_hi": "स्टीयरिंग को मजबूती से पकड़ें, अचानक ब्रेक न लगाएं, एक्सीलेटर छोड़ें और धीरे-धीरे किनारे रोकें"
+  },
+  {
+    "id": 187,
+    "q_en": "What is a blind spot?",
+    "a_en": "Areas around the vehicle not directly visible through rear-view or side-view mirrors",
+    "q_hi": "ब्लाइंड स्पॉट (अंधा क्षेत्र) क्या है?",
+    "a_hi": "वाहन के चारों ओर वे स्थान जो रियर-व्यू या साइड मिरर से सीधे दिखाई नहीं देते"
+  },
+  {
+    "id": 188,
+    "q_en": "Before changing lanes or turning, besides checking mirrors, a driver should:",
+    "a_en": "Perform a quick shoulder check (head check) to verify blind spot is clear",
+    "q_hi": "लेन बदलने या मुड़ने से पहले, शीशे देखने के अलावा चालक को:",
+    "a_hi": "ब्लाइंड स्पॉट जांचने के लिए कंधे के ऊपर से तुरंत पीछे मुड़कर देखना चाहिए"
+  },
+  {
+    "id": 189,
+    "q_en": "When driving down a steep hill, you should:",
+    "a_en": "Shift to a lower gear to use engine braking instead of riding the foot brake",
+    "q_hi": "तीव्र ढलान से नीचे उतरते समय आपको:",
+    "a_hi": "लगातार पैर का ब्रेक दबाने के बजाय इंजन ब्रेकिंग के लिए निचले गियर का उपयोग करना चाहिए"
+  },
+  {
+    "id": 190,
+    "q_en": "Riding the clutch (resting foot on clutch pedal while driving) causes:",
+    "a_en": "Premature wear and overheating of the clutch plate",
+    "q_hi": "क्लच पर पैर रखकर चलाने (Riding the clutch) से होता है:",
+    "a_hi": "क्लच प्लेट का जल्दी घिसना और अत्यधिक गर्म होना"
+  },
+  {
+    "id": 191,
+    "q_en": "Coasting (driving downhill in neutral gear or clutch pressed) is:",
+    "a_en": "Dangerous and illegal because it reduces vehicle control and engine braking",
+    "q_hi": "कोस्टिंग (ढलान पर न्यूट्रल गियर या क्लच दबाकर चलाना) है:",
+    "a_hi": "खतरनाक और गैरकानूनी क्योंकि इससे वाहन पर नियंत्रण और इंजन ब्रेकिंग कम हो जाती है"
+  },
+  {
+    "id": 192,
+    "q_en": "Correct way to jump-start a dead car battery:",
+    "a_en": "Connect (+) to (+), then (-) of good battery to unpainted metal ground on dead car",
+    "q_hi": "डिस्चार्ज कार बैटरी को जंप-स्टार्ट करने का सही तरीका:",
+    "a_hi": "पॉजिटिव (+) को (+) से जोड़ें, फिर अच्छी बैटरी के नेगेटिव (-) को खराब कार के बिना पेंट वाले धातु हिस्से से जोड़ें"
+  },
+  {
+    "id": 193,
+    "q_en": "What does a red battery warning light on the dashboard indicate?",
+    "a_en": "The battery is not charging properly (alternator or belt issue)",
+    "q_hi": "डैशबोर्ड पर लाल बैटरी चेतावनी लाइट क्या दर्शाती है?",
+    "a_hi": "बैटरी ठीक से चार्ज नहीं हो रही है (अल्टरनेटर या बेल्ट की समस्या)"
+  },
+  {
+    "id": 194,
+    "q_en": "What does a red oil can warning light on the dashboard indicate?",
+    "a_en": "Low engine oil pressure — stop the engine immediately",
+    "q_hi": "डैशबोर्ड पर लाल ऑयल कैन चेतावनी लाइट क्या दर्शाती है?",
+    "a_hi": "इंजन ऑयल का दबाव कम है — इंजन को तुरंत बंद करें"
+  },
+  {
+    "id": 195,
+    "q_en": "What does a red temperature warning light indicate?",
+    "a_en": "Engine is overheating — stop safely and let the engine cool",
+    "q_hi": "लाल तापमान चेतावनी लाइट क्या दर्शाती है?",
+    "a_hi": "इंजन अधिक गर्म हो रहा है — सुरक्षित रूप से रुकें और इंजन को ठंडा होने दें"
+  },
+  {
+    "id": 196,
+    "q_en": "Never open the radiator cap when the engine is hot because:",
+    "a_en": "Pressurized boiling coolant/steam will spray out and cause severe burns",
+    "q_hi": "इंजन गर्म होने पर रेडिएटर का ढक्कन कभी नहीं खोलना चाहिए क्योंकि:",
+    "a_hi": "दबाव वाला उबलता कूलेंट/भाप बाहर निकलकर गंभीर रूप से जला सकता है"
+  },
+  {
+    "id": 197,
+    "q_en": "Under-inflated tyres cause:",
+    "a_en": "Excessive wear on tyre edges, overheating, poor mileage, and blowout risk",
+    "q_hi": "कम हवा वाले टायरों से होता है:",
+    "a_hi": "टायर के किनारों का अधिक घिसना, गर्म होना, कम माइलेज और टायर फटने का खतरा"
+  },
+  {
+    "id": 198,
+    "q_en": "Over-inflated tyres cause:",
+    "a_en": "Excessive wear in the center of the tread, harsh ride, and reduced road grip",
+    "q_hi": "अधिक हवा वाले टायरों से होता है:",
+    "a_hi": "टायर के बीच के हिस्से का अधिक घिसना, झटके लगना और सड़क पर पकड़ कम होना"
+  },
+  {
+    "id": 199,
+    "q_en": "Minimum legal tyre tread depth for safe driving is generally:",
+    "a_en": "1.6 mm",
+    "q_hi": "सुरक्षित ड्राइविंग के लिए टायर की न्यूनतम कानूनी ग्रिप गहराई होती है:",
+    "a_hi": "1.6 मिमी"
+  },
+  {
+    "id": 200,
+    "q_en": "Wheel alignment ensures:",
+    "a_en": "The vehicle travels straight without pulling to one side and prevents uneven tyre wear",
+    "q_hi": "व्हील एलाइनमेंट सुनिश्चित करता है:",
+    "a_hi": "वाहन बिना किसी तरफ खिंचे सीधा चले और टायर असमान रूप से न घिसें"
+  },
+  {
+    "id": 201,
+    "q_en": "Wheel balancing prevents:",
+    "a_en": "Steering wheel vibration at higher speeds",
+    "q_hi": "व्हील बैलेंसिंग रोकता है:",
+    "a_hi": "उच्च गति पर स्टीयरिंग व्हील के कंपन को"
+  },
+  {
+    "id": 202,
+    "q_en": "Catalytic converter in a vehicle is used to:",
+    "a_en": "Reduce harmful exhaust emissions (CO, HC, NOx)",
+    "q_hi": "वाहन में कैटेलिटिक कन्वर्टर का उपयोग किया जाता है:",
+    "a_hi": "हानिकारक धुएं के उत्सर्जन (CO, HC, NOx) को कम करने के लिए"
+  },
+  {
+    "id": 203,
+    "q_en": "White smoke from exhaust usually indicates:",
+    "a_en": "Coolant or water entering the combustion chamber",
+    "q_hi": "साइलेंसर से सफेद धुआं निकलना आमतौर पर दर्शाता है:",
+    "a_hi": "कम्बशन चैंबर में कूलेंट या पानी का प्रवेश करना"
+  },
+  {
+    "id": 204,
+    "q_en": "Blue smoke from exhaust usually indicates:",
+    "a_en": "Engine oil is burning inside the combustion chamber",
+    "q_hi": "साइलेंसर से नीला धुआं निकलना आमतौर पर दर्शाता है:",
+    "a_hi": "कम्बशन चैंबर के अंदर इंजन ऑयल जल रहा है"
+  },
+  {
+    "id": 205,
+    "q_en": "Black smoke from exhaust usually indicates:",
+    "a_en": "Too much fuel / rich air-fuel mixture or clogged air filter",
+    "q_hi": "साइलेंसर से काला धुआं निकलना आमतौर पर दर्शाता है:",
+    "a_hi": "अधिक ईंधन की खपत या एयर फिल्टर का जाम होना"
+  },
+  {
+    "id": 206,
+    "q_en": "When driving in heavy fog, you should use:",
+    "a_en": "Low beam headlights and front/rear fog lamps",
+    "q_hi": "घने कोहरे में वाहन चलाते समय आपको उपयोग करना चाहिए:",
+    "a_hi": "लो बीम हेडलाइट्स और आगे/पीछे के फॉग लैंप"
+  },
+  {
+    "id": 207,
+    "q_en": "Why should high beam NOT be used in fog?",
+    "a_en": "High beam light reflects off water droplets in fog, creating glare and reducing visibility",
+    "q_hi": "कोहरे में हाई बीम का उपयोग क्यों नहीं करना चाहिए?",
+    "a_hi": "हाई बीम की रोशनी कोहरे की बूंदों से टकराकर चमक पैदा करती है और दृश्यता कम कर देती है"
+  },
+  {
+    "id": 208,
+    "q_en": "Hazard warning lights (all four indicators flashing) should be used when:",
+    "a_en": "The vehicle has broken down or is stationary causing a temporary hazard",
+    "q_hi": "हैजर्ड वार्निंग लाइट्स (चारों इंडिकेटर) का उपयोग कब किया जाना चाहिए?",
+    "a_hi": "जब वाहन खराब हो गया हो या अस्थायी बाधा बनकर खड़ा हो"
+  },
+  {
+    "id": 209,
+    "q_en": "Should hazard lights be used while driving normally in rain or tunnels?",
+    "a_en": "No, because it disables turn signals and confuses other drivers",
+    "q_hi": "क्या बारिश या सुरंग में सामान्य रूप से गाड़ी चलाते समय हैजर्ड लाइट का उपयोग करना चाहिए?",
+    "a_hi": "नहीं, क्योंकि इससे टर्न सिग्नल काम नहीं करते और अन्य चालक भ्रमित होते हैं"
+  },
+  {
+    "id": 210,
+    "q_en": "When entering a roundabout (rotary), you must give way to:",
+    "a_en": "Traffic already circulating on the roundabout coming from your right",
+    "q_hi": "गोल चक्कर (राउंडअबाउट) में प्रवेश करते समय आपको किसे रास्ता देना चाहिए?",
+    "a_hi": "आपकी दाईं ओर से गोल चक्कर में पहले से घूम रहे यातायात को"
+  },
+  {
+    "id": 211,
+    "q_en": "When exiting a roundabout, you should:",
+    "a_en": "Signal left before taking the exit",
+    "q_hi": "गोल चक्कर से बाहर निकलते समय आपको:",
+    "a_hi": "बाहर निकलने से पहले बाएं मुड़ने का संकेत देना चाहिए"
+  },
+  {
+    "id": 212,
+    "q_en": "On a multi-lane highway, the rightmost lane is meant for:",
+    "a_en": "Overtaking fast-moving vehicles (keep left unless overtaking)",
+    "q_hi": "बहु-लेन राजमार्ग पर सबसे दाहिनी लेन किसके लिए होती है?",
+    "a_hi": "तेज वाहनों को ओवरटेक करने के लिए (ओवरटेक न कर रहे हों तो बाएं रहें)"
+  },
+  {
+    "id": 213,
+    "q_en": "On a multi-lane road, heavy and slow-moving vehicles should drive in:",
+    "a_en": "The leftmost lane",
+    "q_hi": "बहु-लेन सड़क पर भारी और धीमे वाहनों को चलना चाहिए:",
+    "a_hi": "सबसे बाईं लेन में"
+  },
+  {
+    "id": 214,
+    "q_en": "Before opening a car door parked on the roadside, you should:",
+    "a_en": "Check mirrors and look back to ensure no cyclist or vehicle is approaching",
+    "q_hi": "सड़क किनारे खड़ी कार का दरवाजा खोलने से पहले आपको:",
+    "a_hi": "शीशे देखना और पीछे मुड़कर जांचना चाहिए कि कोई साइकिल या वाहन तो नहीं आ रहा"
+  },
+  {
+    "id": 215,
+    "q_en": "When parking uphill with a curb, turn the front wheels:",
+    "a_en": "Away from the curb",
+    "q_hi": "किनारे (कर्ब) वाली चढ़ाई पर पार्क करते समय अगले पहियों को घुमाएं:",
+    "a_hi": "किनारे (कर्ब) से दूर की ओर"
+  },
+  {
+    "id": 216,
+    "q_en": "When parking downhill with a curb, turn the front wheels:",
+    "a_en": "Toward the curb",
+    "q_hi": "किनारे (कर्ब) वाली ढलान पर पार्क करते समय अगले पहियों को घुमाएं:",
+    "a_hi": "किनारे (कर्ब) की ओर"
+  },
+  {
+    "id": 217,
+    "q_en": "When parking uphill or downhill without a curb, turn the front wheels:",
+    "a_en": "Toward the edge/shoulder of the road",
+    "q_hi": "बिना किनारे (कर्ब) वाली चढ़ाई या ढलान पर पार्क करते समय अगले पहियों को घुमाएं:",
+    "a_hi": "सड़क के किनारे की ओर"
+  },
+  {
+    "id": 218,
+    "q_en": "Why should you never leave children or pets locked inside a parked car?",
+    "a_en": "Cabin temperature rises rapidly and can cause fatal heatstroke or suffocation",
+    "q_hi": "खड़ी कार के अंदर बच्चों या पालतू जानवरों को कभी बंद क्यों नहीं छोड़ना चाहिए?",
+    "a_hi": "केबिन का तापमान तेजी से बढ़ता है जिससे हीटस्ट्रोक या दम घुटने से मृत्यु हो सकती है"
+  },
+  {
+    "id": 219,
+    "q_en": "In first aid for a road accident victim with severe bleeding, you should:",
+    "a_en": "Apply firm direct pressure on the wound using a clean cloth and elevate limb",
+    "q_hi": "सड़क दुर्घटना में अत्यधिक रक्तस्राव वाले पीड़ित के प्राथमिक उपचार में आपको:",
+    "a_hi": "साफ कपड़े से घाव पर सीधा दबाव डालना चाहिए और घायल अंग को ऊपर उठाना चाहिए"
+  },
+  {
+    "id": 220,
+    "q_en": "If an accident victim is unconscious but breathing normally, place them in:",
+    "a_en": "The Recovery Position (lying on their side with head tilted slightly back)",
+    "q_hi": "यदि दुर्घटना पीड़ित बेहोश है लेकिन सामान्य रूप से सांस ले रहा है, तो उसे रखें:",
+    "a_hi": "रिकवरी पोजीशन में (सिर थोड़ा पीछे झुकाकर करवट के बल लिटाएं)"
+  },
+  {
+    "id": 221,
+    "q_en": "If a motorcyclist is unconscious after a crash, should you remove their helmet?",
+    "a_en": "Do NOT remove helmet unless airway is blocked, as it may worsen neck/spine injury",
+    "q_hi": "दुर्घटना के बाद मोटरसाइकिल चालक बेहोश हो, तो क्या उसका हेलमेट उतारना चाहिए?",
+    "a_hi": "हेलमेट न उतारें जब तक सांस की नली बंद न हो, क्योंकि इससे गर्दन/रीढ़ की चोट बढ़ सकती है"
+  },
+  {
+    "id": 222,
+    "q_en": "What does CPR stand for in emergency first aid?",
+    "a_en": "Cardiopulmonary Resuscitation",
+    "q_hi": "आपातकालीन प्राथमिक चिकित्सा में CPR का पूर्ण रूप क्या है?",
+    "a_hi": "कार्डियोपल्मोनरी रिससिटेशन"
+  },
+  {
+    "id": 223,
+    "q_en": "Emergency national helpline number for road accidents/police/ambulance in India:",
+    "a_en": "112 (and 108 for Ambulance)",
+    "q_hi": "भारत में सड़क दुर्घटनाओं/पुलिस/एम्बुलेंस के लिए राष्ट्रीय आपातकालीन हेल्पलाइन नंबर:",
+    "a_hi": "112 (और एम्बुलेंस के लिए 108)"
+  },
+  {
+    "id": 224,
+    "q_en": "Before reversing a vehicle, the driver must ensure:",
+    "a_en": "There are no pedestrians, children, or obstacles behind the vehicle",
+    "q_hi": "वाहन को रिवर्स (पीछे) करने से पहले चालक को सुनिश्चित करना चाहिए कि:",
+    "a_hi": "वाहन के पीछे कोई पैदल यात्री, बच्चा या अवरोध न हो"
+  },
+  {
+    "id": 225,
+    "q_en": "Reversing a vehicle on a main road or highway is:",
+    "a_en": "Prohibited and extremely dangerous",
+    "q_hi": "मुख्य सड़क या राजमार्ग पर वाहन को रिवर्स करना:",
+    "a_hi": "निषिद्ध और अत्यंत खतरनाक है"
+  },
+  {
+    "id": 226,
+    "q_en": "What does a yellow diagonal arrow pointing downward on a road sign mean?",
+    "a_en": "Keep left / pass on the left side of an obstruction or island",
+    "q_hi": "सड़क संकेत पर नीचे की ओर इशारा करते पीले तिरछे तीर का क्या अर्थ है?",
+    "a_hi": "बाएं रहें / अवरोध या डिवाइडर के बाईं ओर से गुजरें"
+  },
+  {
+    "id": 227,
+    "q_en": "When approaching an intersection with no traffic lights or signs, who has right of way?",
+    "a_en": "Traffic approaching from your right",
+    "q_hi": "बिना ट्रैफिक लाइट या संकेत वाले चौराहे पर पहुँचने पर पहले जाने का अधिकार किसका है?",
+    "a_hi": "आपकी दाईं ओर से आ रहे यातायात का"
+  },
+  {
+    "id": 228,
+    "q_en": "When making a right turn at a junction, you should position your vehicle:",
+    "a_en": "Close to the center line of the road",
+    "q_hi": "चौराहे पर दाईं ओर मुड़ते समय आपको अपना वाहन रखना चाहिए:",
+    "a_hi": "सड़क की मध्य रेखा के करीब"
+  },
+  {
+    "id": 229,
+    "q_en": "When making a left turn at a junction, you should position your vehicle:",
+    "a_en": "Close to the left edge of the road",
+    "q_hi": "चौराहे पर बाईं ओर मुड़ते समय आपको अपना वाहन रखना चाहिए:",
+    "a_hi": "सड़क के बाएं किनारे के करीब"
+  },
+  {
+    "id": 230,
+    "q_en": "What is defensive driving?",
+    "a_en": "Driving to save lives, time, and money despite conditions and actions of others",
+    "q_hi": "रक्षात्मक ड्राइविंग (Defensive Driving) क्या है?",
+    "a_hi": "आसपास की परिस्थितियों और दूसरों की गलतियों के बावजूद जीवन, समय और धन बचाने के लिए सुरक्षित ड्राइविंग करना"
+  },
+  {
+    "id": 231,
+    "q_en": "Fatigue or drowsiness while driving can be prevented by:",
+    "a_en": "Taking a 15-minute break every 2 hours of continuous driving",
+    "q_hi": "वाहन चलाते समय थकान या नींद आने से कैसे बचा जा सकता है?",
+    "a_hi": "हर 2 घंटे की निरंतर ड्राइविंग के बाद 15 मिनट का ब्रेक लेकर"
+  },
+  {
+    "id": 232,
+    "q_en": "What is road rage?",
+    "a_en": "Aggressive or angry behavior exhibited by a driver, which endangers road safety",
+    "q_hi": "रोड रेज (Road Rage) क्या है?",
+    "a_hi": "चालक द्वारा किया जाने वाला आक्रामक या क्रोधित व्यवहार जो सड़क सुरक्षा को खतरे में डालता है"
+  },
+  {
+    "id": 233,
+    "q_en": "If another driver shows aggression or road rage, you should:",
+    "a_en": "Stay calm, avoid eye contact or retaliation, and drive to a safe crowded place or police station",
+    "q_hi": "यदि कोई अन्य चालक आक्रामकता या रोड रेज दिखाता है, तो आपको:",
+    "a_hi": "शांत रहना चाहिए, आंख मिलाने या जवाब देने से बचना चाहिए और सुरक्षित भीड़भाड़ वाली जगह या थाने जाना चाहिए"
+  },
+  {
+    "id": 234,
+    "q_en": "When driving past a stationary bus at a bus stop, you should:",
+    "a_en": "Slow down and watch out for passengers stepping onto the road",
+    "q_hi": "बस स्टॉप पर खड़ी बस के पास से गुजरते समय आपको:",
+    "a_hi": "गति धीमी करनी चाहिए और सड़क पर उतरने वाले यात्रियों से सावधान रहना चाहिए"
+  },
+  {
+    "id": 235,
+    "q_en": "When driving near cyclists or animal-drawn carts, you should:",
+    "a_en": "Give them wide clearance when overtaking and avoid loud sudden honking",
+    "q_hi": "साइकिल चालकों या पशु-गाड़ियों के पास वाहन चलाते समय आपको:",
+    "a_hi": "ओवरटेक करते समय पर्याप्त दूरी रखनी चाहिए और अचानक तेज हॉर्न नहीं बजाना चाहिए"
+  },
+  {
+    "id": 236,
+    "q_en": "At night, if dazzled by high-beam headlights of an oncoming vehicle, you should:",
+    "a_en": "Slow down, avoid looking directly at headlights, and look toward the left edge of road",
+    "q_hi": "रात में सामने वाले वाहन की तेज हेडलाइट से आंखें चौंधियाने पर आपको:",
+    "a_hi": "गति धीमी करनी चाहिए, सीधे हेडलाइट की ओर न देखकर सड़क के बाएं किनारे की ओर देखना चाहिए"
+  },
+  {
+    "id": 237,
+    "q_en": "A Driving Licence issued for a private non-transport vehicle (up to age 30) is valid until:",
+    "a_en": "The holder attains 40 years of age",
+    "q_hi": "30 वर्ष की आयु तक निजी गैर-परिवहन वाहन के लिए जारी ड्राइविंग लाइसेंस वैध होता है:",
+    "a_hi": "धारक के 40 वर्ष की आयु प्राप्त करने तक"
+  },
+  {
+    "id": 238,
+    "q_en": "If a Driving Licence is obtained between ages 30 and 50, it is valid for:",
+    "a_en": "10 years",
+    "q_hi": "यदि 30 से 50 वर्ष की आयु के बीच ड्राइविंग लाइसेंस प्राप्त किया जाता है, तो यह वैध होता है:",
+    "a_hi": "10 वर्ष के लिए"
+  },
+  {
+    "id": 239,
+    "q_en": "If a Driving Licence is obtained between ages 50 and 55, it is valid until:",
+    "a_en": "The holder attains 60 years of age",
+    "q_hi": "यदि 50 से 55 वर्ष की आयु के बीच ड्राइविंग लाइसेंस प्राप्त किया जाता है, तो यह वैध होता है:",
+    "a_hi": "धारक के 60 वर्ष की आयु प्राप्त करने तक"
+  },
+  {
+    "id": 240,
+    "q_en": "After attaining 60 years of age, a Driving Licence is renewed for:",
+    "a_en": "5 years at a time",
+    "q_hi": "60 वर्ष की आयु प्राप्त करने के बाद ड्राइविंग लाइसेंस का नवीनीकरण किया जाता है:",
+    "a_hi": "एक बार में 5 वर्ष के लिए"
+  },
+  {
+    "id": 241,
+    "q_en": "Validity of a Driving Licence for transport vehicles (commercial) is:",
+    "a_en": "5 years (3 years for hazardous goods vehicles)",
+    "q_hi": "परिवहन (कमर्शियल) वाहनों के लिए ड्राइविंग लाइसेंस की वैधता होती है:",
+    "a_hi": "5 वर्ष (खतरनाक सामान ढोने वाले वाहनों के लिए 3 वर्ष)"
+  },
+  {
+    "id": 242,
+    "q_en": "Grace period for renewal of a Driving Licence without penalty/re-test:",
+    "a_en": "Up to 1 year before expiry or within 1 year after expiry",
+    "q_hi": "बिना जुर्माना/पुनः परीक्षण के ड्राइविंग लाइसेंस नवीनीकरण की छूट अवधि:",
+    "a_hi": "समाप्ति से 1 वर्ष पहले या समाप्ति के 1 वर्ष के भीतर"
+  },
+  {
+    "id": 243,
+    "q_en": "If a Driving Licence has expired for more than 1 year, the applicant must:",
+    "a_en": "Undergo the driving competence test again to renew it",
+    "q_hi": "यदि ड्राइविंग लाइसेंस समाप्त हुए 1 वर्ष से अधिक हो गया है, तो आवेदक को:",
+    "a_hi": "नवीनीकरण के लिए फिर से ड्राइविंग दक्षता परीक्षा देनी होगी"
+  },
+  {
+    "id": 244,
+    "q_en": "Form 1 in Sarathi Parivahan is:",
+    "a_en": "Self-declaration as to physical fitness",
+    "q_hi": "सारथी परिवहन में फॉर्म 1 (Form 1) है:",
+    "a_hi": "शारीरिक स्वस्थता के संबंध में स्व-घोषणा पत्र"
+  },
+  {
+    "id": 245,
+    "q_en": "Form 1A in Sarathi Parivahan is:",
+    "a_en": "Medical Certificate signed by a registered medical practitioner",
+    "q_hi": "सारथी परिवहन में फॉर्म 1A (Form 1A) है:",
+    "a_hi": "पंजीकृत चिकित्सक द्वारा हस्ताक्षरित चिकित्सा प्रमाण पत्र"
+  },
+  {
+    "id": 246,
+    "q_en": "Form 2 in Sarathi Parivahan is:",
+    "a_en": "Application form for Learner's Licence / Driving Licence",
+    "q_hi": "सारथी परिवहन में फॉर्म 2 (Form 2) है:",
+    "a_hi": "लर्नर लाइसेंस / ड्राइविंग लाइसेंस के लिए आवेदन पत्र"
+  },
+  {
+    "id": 247,
+    "q_en": "Form 20 is used for:",
+    "a_en": "Application for Registration of a Motor Vehicle",
+    "q_hi": "फॉर्म 20 (Form 20) का उपयोग किया जाता है:",
+    "a_hi": "मोटर वाहन के पंजीकरण के आवेदन के लिए"
+  },
+  {
+    "id": 248,
+    "q_en": "Form 29 and Form 30 are used for:",
+    "a_en": "Notice of transfer of ownership of a motor vehicle",
+    "q_hi": "फॉर्म 29 और फॉर्म 30 का उपयोग किया जाता है:",
+    "a_hi": "मोटर वाहन के स्वामित्व हस्तांतरण (Ownership Transfer) की सूचना के लिए"
+  },
+  {
+    "id": 249,
+    "q_en": "What is an International Driving Permit (IDP)?",
+    "a_en": "A document allowing an Indian DL holder to drive in foreign countries (valid for 1 year)",
+    "q_hi": "अंतर्राष्ट्रीय ड्राइविंग परमिट (IDP) क्या है?",
+    "a_hi": "भारतीय डीएल धारक को विदेशों में वाहन चलाने की अनुमति देने वाला दस्तावेज (1 वर्ष के लिए वैध)"
+  },
+  {
+    "id": 250,
+    "q_en": "What does 'MCWG' stand for on a Driving Licence?",
+    "a_en": "Motor Cycle With Gear",
+    "q_hi": "ड्राइविंग लाइसेंस पर 'MCWG' का क्या अर्थ है?",
+    "a_hi": "गियर वाली मोटरसाइकिल (Motor Cycle With Gear)"
+  },
+  {
+    "id": 251,
+    "q_en": "What does 'MCWOG' stand for on a Driving Licence?",
+    "a_en": "Motor Cycle Without Gear",
+    "q_hi": "ड्राइविंग लाइसेंस पर 'MCWOG' का क्या अर्थ है?",
+    "a_hi": "बिना गियर वाली मोटरसाइकिल (Motor Cycle Without Gear)"
+  },
+  {
+    "id": 252,
+    "q_en": "What does 'LMV' stand for on a Driving Licence?",
+    "a_en": "Light Motor Vehicle",
+    "q_hi": "ड्राइविंग लाइसेंस पर 'LMV' का क्या अर्थ है?",
+    "a_hi": "हल्का मोटर वाहन (Light Motor Vehicle)"
+  },
+  {
+    "id": 253,
+    "q_en": "What does 'HMV' or 'TRANS' stand for on a Driving Licence?",
+    "a_en": "Heavy Motor Vehicle / Transport Vehicle",
+    "q_hi": "ड्राइविंग लाइसेंस पर 'HMV' या 'TRANS' का क्या अर्थ है?",
+    "a_hi": "भारी मोटर वाहन / परिवहन वाहन"
+  },
+  {
+    "id": 254,
+    "q_en": "Can a person holding an LMV licence drive a light commercial vehicle up to 7,500 kg gross weight?",
+    "a_en": "Yes, as per Supreme Court ruling and amended MV Rules",
+    "q_hi": "क्या LMV लाइसेंस धारक 7,500 किग्रा तक का हल्का कमर्शियल वाहन चला सकता है?",
+    "a_hi": "हाँ, सर्वोच्च न्यायालय के निर्णय और संशोधित मोटर वाहन नियमों के अनुसार"
+  },
+  {
+    "id": 255,
+    "q_en": "What does GVWR / GVW stand for?",
+    "a_en": "Gross Vehicle Weight (total weight of vehicle plus maximum permitted load)",
+    "q_hi": "GVW का पूर्ण रूप क्या है?",
+    "a_hi": "सकल वाहन भार (वाहन का कुल वजन और अधिकतम अनुमत भार)"
+  },
+  {
+    "id": 256,
+    "q_en": "Carrying goods projecting beyond the rear or sides of a vehicle without warning flag/light is:",
+    "a_en": "An offence under the Motor Vehicles Act",
+    "q_hi": "बिना लाल झंडे/लाइट के वाहन के पीछे या किनारे से बाहर निकले सामान को ले जाना:",
+    "a_hi": "मोटर वाहन अधिनियम के तहत एक अपराध है"
+  },
+  {
+    "id": 257,
+    "q_en": "During night, a load projecting at the rear of a vehicle must carry:",
+    "a_en": "A red light or red reflector",
+    "q_hi": "रात के समय वाहन के पीछे बाहर निकले हुए भार पर लगा होना चाहिए:",
+    "a_hi": "एक लाल बत्ती या लाल परावर्तक (रिफ्लेक्टर)"
+  },
+  {
+    "id": 258,
+    "q_en": "During day, a load projecting at the rear of a vehicle must carry:",
+    "a_en": "A red flag",
+    "q_hi": "दिन के समय वाहन के पीछे बाहर निकले हुए भार पर लगा होना चाहिए:",
+    "a_hi": "एक लाल झंडा"
+  },
+  {
+    "id": 259,
+    "q_en": "Tinted glass / sun control film on car windows is:",
+    "a_en": "Prohibited if visibility falls below 70% for front/rear windscreens and 50% for side windows",
+    "q_hi": "कार की खिड़कियों पर काली फिल्म (Tinted Glass) लगाना:",
+    "a_hi": "निषिद्ध है यदि दृश्यता आगे/पीछे के शीशे के लिए 70% और साइड खिड़कियों के लिए 50% से कम हो"
+  },
+  {
+    "id": 260,
+    "q_en": "Multi-toned horns or shrill pressure horns on vehicles are:",
+    "a_en": "Strictly prohibited",
+    "q_hi": "वाहनों पर मल्टी-टोन या तेज प्रेशर हॉर्न लगाना:",
+    "a_hi": "सख्त निषिद्ध है"
+  },
+  {
+    "id": 261,
+    "q_en": "Modifying a vehicle's exhaust silencer to produce loud noise is:",
+    "a_en": "Illegal and punishable with fine",
+    "q_hi": "तेज आवाज निकालने के लिए वाहन के साइलेंसर में बदलाव करना:",
+    "a_hi": "गैरकानूनी और दंडनीय अपराध है"
+  },
+  {
+    "id": 262,
+    "q_en": "Driving a vehicle without a valid Registration Certificate (RC) is:",
+    "a_en": "An offence under Section 39/192 of the Motor Vehicles Act",
+    "q_hi": "वैध पंजीकरण प्रमाण पत्र (RC) के बिना वाहन चलाना:",
+    "a_hi": "मोटर वाहन अधिनियम की धारा 39/192 के तहत एक अपराध है"
+  },
+  {
+    "id": 263,
+    "q_en": "Can digital copies of DL and RC in DigiLocker or mParivahan app be shown to traffic police?",
+    "a_en": "Yes, they are legally valid at par with original physical documents",
+    "q_hi": "क्या डिजिलॉकर या mParivahan ऐप में DL और RC की डिजिटल प्रतियां ट्रैफिक पुलिस को दिखाई जा सकती हैं?",
+    "a_hi": "हाँ, वे मूल भौतिक दस्तावेजों के समान कानूनी रूप से वैध हैं"
+  },
+  {
+    "id": 264,
+    "q_en": "What is e-Challan?",
+    "a_en": "An electronic traffic violation ticket generated digitally by traffic police or cameras",
+    "q_hi": "ई-चालान (e-Challan) क्या है?",
+    "a_hi": "ट्रैफिक पुलिस या स्वचालित कैमरों द्वारा डिजिटल रूप से जारी किया गया यातायात उल्लंघन टिकट"
+  },
+  {
+    "id": 265,
+    "q_en": "When a traffic police officer in uniform demands your Driving Licence for inspection:",
+    "a_en": "You must produce it (physical or via DigiLocker/mParivahan)",
+    "q_hi": "जब वर्दी में यातायात पुलिस अधिकारी निरीक्षण के लिए आपका ड्राइविंग लाइसेंस मांगता है:",
+    "a_hi": "आपको इसे प्रस्तुत करना होगा (भौतिक रूप से या DigiLocker/mParivahan के माध्यम से)"
+  },
+  {
+    "id": 266,
+    "q_en": "If a police officer seizes your Driving Licence for an offence, what must they give you?",
+    "a_en": "A written acknowledgement/receipt authorizing you to drive until a specified date",
+    "q_hi": "यदि पुलिस अधिकारी किसी अपराध के लिए आपका ड्राइविंग लाइसेंस जब्त करता है, तो उसे आपको क्या देना होगा?",
+    "a_hi": "एक लिखित पावती/रसीद जो आपको निर्दिष्ट तिथि तक वाहन चलाने के लिए अधिकृत करती है"
+  },
+  {
+    "id": 267,
+    "q_en": "What is the purpose of rumble strips on a highway?",
+    "a_en": "To alert drivers through vibration and sound to slow down before an intersection or hazard",
+    "q_hi": "राजमार्ग पर रंबल स्ट्रिप्स (Rumble Strips) का उद्देश्य क्या है?",
+    "a_hi": "चौराहे या खतरे से पहले कंपन और ध्वनि के माध्यम से चालकों को गति धीमी करने के लिए सचेत करना"
+  },
+  {
+    "id": 268,
+    "q_en": "What are cat's eyes (road studs) on the road?",
+    "a_en": "Reflective markers fixed on the road surface to delineate lanes and edges at night",
+    "q_hi": "सड़क पर कैट्स आई (रोड स्टड्स) क्या हैं?",
+    "a_hi": "रात में लेन और सड़क के किनारों को दर्शाने के लिए सड़क पर लगाए गए चमकदार मार्कर"
+  },
+  {
+    "id": 269,
+    "q_en": "Chevron signs (yellow and black arrows) are placed at:",
+    "a_en": "Sharp curves/bends to guide drivers on the direction of the turn",
+    "q_hi": "शेवरॉन संकेत (पीले और काले तीर) कहाँ लगाए जाते हैं?",
+    "a_hi": "तीखे मोड़ों पर चालकों को मोड़ की दिशा बताने के लिए"
+  },
+  {
+    "id": 270,
+    "q_en": "Object hazard markers (yellow and black striped boards) indicate:",
+    "a_en": "An obstruction near the edge of the road such as a bridge pier or divider nose",
+    "q_hi": "ऑब्जेक्ट हैजर्ड मार्कर (पीली और काली धारीदार बोर्ड) दर्शाते हैं:",
+    "a_hi": "सड़क के किनारे के पास कोई अवरोध जैसे पुल का खंभा या डिवाइडर का सिरा"
+  },
+  {
+    "id": 271,
+    "q_en": "When driving through waterlogged roads, you should:",
+    "a_en": "Drive slowly in a low gear with high engine RPM and test brakes lightly after exiting",
+    "q_hi": "जलभराव वाली सड़कों से गुजरते समय आपको:",
+    "a_hi": "निचले गियर में उच्च इंजन आरपीएम के साथ धीरे चलना चाहिए और बाहर निकलने के बाद हल्के से ब्रेक जांचने चाहिए"
+  },
+  {
+    "id": 272,
+    "q_en": "Why should you test your brakes gently after driving through deep water?",
+    "a_en": "To dry out wet brake pads/drums and restore normal braking efficiency",
+    "q_hi": "गहरे पानी से निकलने के बाद आपको हल्के से ब्रेक क्यों जांचने चाहिए?",
+    "a_hi": "गीले ब्रेक पैड/ड्रम को सुखाने और सामान्य ब्रेकिंग क्षमता बहाल करने के लिए"
+  },
+  {
+    "id": 273,
+    "q_en": "If your vehicle catches fire while driving, you should:",
+    "a_en": "Stop immediately, switch off engine, evacuate passengers, and call fire brigade (101/112)",
+    "q_hi": "यदि वाहन चलाते समय आग लग जाए तो आपको:",
+    "a_hi": "तुरंत रुकना चाहिए, इंजन बंद करना चाहिए, यात्रियों को बाहर निकालना चाहिए और फायर ब्रिगेड (101/112) को कॉल करना चाहिए"
+  },
+  {
+    "id": 274,
+    "q_en": "Never use water to extinguish a petrol/diesel or electrical fire in a vehicle; instead use:",
+    "a_en": "An ABC / Dry Chemical Powder or CO2 fire extinguisher, or sand/soil",
+    "q_hi": "वाहन में पेट्रोल/डीजल या बिजली की आग बुझाने के लिए पानी का उपयोग कभी न करें; इसके बजाय उपयोग करें:",
+    "a_hi": "ABC / ड्राई केमिकल पाउडर या CO2 अग्निशामक यंत्र, या रेत/मिट्टी"
+  },
+  {
+    "id": 275,
+    "q_en": "What is 'right of way'?",
+    "a_en": "The legal right of a pedestrian or vehicle to proceed first in a particular situation",
+    "q_hi": "'रास्ते का अधिकार (Right of Way)' क्या है?",
+    "a_hi": "किसी विशेष स्थिति में पैदल यात्री या वाहन का पहले आगे बढ़ने का कानूनी अधिकार"
+  },
+  {
+    "id": 276,
+    "q_en": "At an uncontrolled pedestrian crossing, who has the right of way?",
+    "a_en": "The pedestrian",
+    "q_hi": "अनियंत्रित पैदल पारपथ पर पहले गुजरने का अधिकार किसका है?",
+    "a_hi": "पैदल यात्री का"
+  },
+  {
+    "id": 277,
+    "q_en": "When merging onto a highway from a slip road/acceleration lane, you should:",
+    "a_en": "Match highway speed, signal, check mirrors/blind spot, and yield to highway traffic",
+    "q_hi": "स्लिप रोड से राजमार्ग पर मिलते समय आपको:",
+    "a_hi": "राजमार्ग के यातायात की गति से मेल खाना चाहिए, संकेत देना चाहिए, ब्लाइंड स्पॉट जांचना चाहिए और राजमार्ग यातायात को रास्ता देना चाहिए"
+  },
+  {
+    "id": 278,
+    "q_en": "Can you overtake a vehicle at a pedestrian crossing?",
+    "a_en": "No, overtaking at or just before a pedestrian crossing is prohibited",
+    "q_hi": "क्या आप पैदल पारपथ (जेब्रा क्रॉसिंग) पर किसी वाहन को ओवरटेक कर सकते हैं?",
+    "a_hi": "नहीं, पैदल पारपथ पर या उससे ठीक पहले ओवरटेक करना निषिद्ध है"
+  },
+  {
+    "id": 279,
+    "q_en": "Can you overtake a vehicle at a road intersection/junction?",
+    "a_en": "No, overtaking at an intersection is prohibited",
+    "q_hi": "क्या आप सड़क के चौराहे/जंक्शन पर किसी वाहन को ओवरटेक कर सकते हैं?",
+    "a_hi": "नहीं, चौराहे पर ओवरटेक करना निषिद्ध है"
+  },
+  {
+    "id": 280,
+    "q_en": "What should you do when you see a 'Give Way' triangle painted on the road surface?",
+    "a_en": "Slow down and yield right of way to traffic on the intersecting road",
+    "q_hi": "जब आप सड़क की सतह पर बना 'रास्ता दें (Give Way)' त्रिभुज देखते हैं तो क्या करना चाहिए?",
+    "a_hi": "गति धीमी करें और मुख्य सड़क के यातायात को पहले जाने का रास्ता दें"
+  },
+  {
+    "id": 281,
+    "q_en": "What does a 'Left Turn Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with a black left-turn arrow crossed out by a red slash",
+    "q_hi": "'बाएं मुड़ना निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें काले बाएं तीर को लाल तिरछी रेखा से काटा गया हो"
+  },
+  {
+    "id": 282,
+    "q_en": "What does a 'Right Turn Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with a black right-turn arrow crossed out by a red slash",
+    "q_hi": "'दाएं मुड़ना निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें काले दाएं तीर को लाल तिरछी रेखा से काटा गया हो"
+  },
+  {
+    "id": 283,
+    "q_en": "What does a 'U-Turn Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with a black U-turn arrow crossed out by a red slash",
+    "q_hi": "'यू-टर्न निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें काले यू-टर्न तीर को लाल तिरछी रेखा से काटा गया हो"
+  },
+  {
+    "id": 284,
+    "q_en": "What does an 'Overtaking Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with two cars side-by-side, the right car in red",
+    "q_hi": "'ओवरटेकिंग निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें अगल-बगल दो कारें हैं और दाईं कार लाल रंग की है"
+  },
+  {
+    "id": 285,
+    "q_en": "What does a 'Bullock Carts Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with a black bullock cart symbol crossed out by a red slash",
+    "q_hi": "'बैलगाड़ी निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें बैलगाड़ी के चिह्न को लाल रेखा से काटा गया है"
+  },
+  {
+    "id": 286,
+    "q_en": "What does a 'Pedestrians Prohibited' sign look like?",
+    "a_en": "A red-bordered white circle with a walking person crossed out by a red slash",
+    "q_hi": "'पैदल यात्री निषेध' संकेत कैसा दिखता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें चलते हुए व्यक्ति को लाल रेखा से काटा गया है"
+  },
+  {
+    "id": 287,
+    "q_en": "What does an 'Axle Load Limit' sign indicate?",
+    "a_en": "Maximum weight allowed on a single axle of a vehicle passing that road/bridge",
+    "q_hi": "'एक्सल भार सीमा' संकेत क्या दर्शाता है?",
+    "a_hi": "उस सड़क/पुल से गुजरने वाले वाहन के एक एक्सल पर अनुमत अधिकतम वजन"
+  },
+  {
+    "id": 288,
+    "q_en": "What does a 'Height Limit' sign (e.g., 3.5m) indicate?",
+    "a_en": "Vehicles taller than the indicated height cannot pass under the structure ahead",
+    "q_hi": "'ऊंचाई सीमा' संकेत (जैसे 3.5 मीटर) क्या दर्शाता है?",
+    "a_hi": "दर्शाई गई ऊंचाई से ऊंचे वाहन आगे पुल के नीचे से नहीं गुजर सकते"
+  },
+  {
+    "id": 289,
+    "q_en": "What does a 'Width Limit' sign (e.g., 2m) indicate?",
+    "a_en": "Vehicles wider than the indicated width cannot pass through the narrow passage ahead",
+    "q_hi": "'चौड़ाई सीमा' संकेत (जैसे 2 मीटर) क्या दर्शाता है?",
+    "a_hi": "दर्शाई गई चौड़ाई से चौड़े वाहन आगे संकरे रास्ते से नहीं गुजर सकते"
+  },
+  {
+    "id": 290,
+    "q_en": "What does a 'Length Limit' sign (e.g., 10m) indicate?",
+    "a_en": "Vehicles longer than the indicated length are prohibited beyond that point",
+    "q_hi": "'लंबाई सीमा' संकेत (जैसे 10 मीटर) क्या दर्शाता है?",
+    "a_hi": "दर्शाई गई लंबाई से लंबे वाहन उस बिंदु से आगे निषिद्ध हैं"
+  },
+  {
+    "id": 291,
+    "q_en": "What does a 'Load Limit' sign (e.g., 5T) indicate?",
+    "a_en": "Vehicles with total laden weight exceeding 5 tonnes are prohibited",
+    "q_hi": "'भार सीमा' संकेत (जैसे 5T) क्या दर्शाता है?",
+    "a_hi": "5 टन से अधिक कुल भार वाले वाहन निषिद्ध हैं"
+  },
+  {
+    "id": 292,
+    "q_en": "What is the shape of all Mandatory / Regulatory traffic signs?",
+    "a_en": "Circular (except 'Stop' which is octagonal and 'Give Way' which is an inverted triangle)",
+    "q_hi": "सभी अनिवार्य / विनियामक यातायात संकेतों का आकार क्या होता है?",
+    "a_hi": "गोलाकार ('रुकिए' अष्टकोणीय और 'रास्ता दें' उल्टे त्रिभुज को छोड़कर)"
+  },
+  {
+    "id": 293,
+    "q_en": "What is the shape of all Cautionary / Warning traffic signs?",
+    "a_en": "Equilateral triangle with red border and white background",
+    "q_hi": "सभी सचेतक / चेतावनी यातायात संकेतों का आकार क्या होता है?",
+    "a_hi": "लाल बॉर्डर और सफेद पृष्ठभूमि वाला समबाहु त्रिभुज"
+  },
+  {
+    "id": 294,
+    "q_en": "What is the shape of all Informatory traffic signs?",
+    "a_en": "Rectangular or square (usually blue or green background)",
+    "q_hi": "सभी सूचनात्मक यातायात संकेतों का आकार क्या होता है?",
+    "a_hi": "आयताकार या वर्गाकार (आमतौर पर नीली या हरी पृष्ठभूमि)"
+  },
+  {
+    "id": 295,
+    "q_en": "Green background direction boards are used on:",
+    "a_en": "National Highways and State Highways",
+    "q_hi": "हरी पृष्ठभूमि वाले दिशा निर्देशक बोर्ड उपयोग किए जाते हैं:",
+    "a_hi": "राष्ट्रीय राजमार्गों (NH) और राज्य राजमार्गों (SH) पर"
+  },
+  {
+    "id": 296,
+    "q_en": "Milestone with a yellow top indicates:",
+    "a_en": "National Highway (NH)",
+    "q_hi": "पीले शीर्ष वाला मील का पत्थर (माइलस्टोन) दर्शाता है:",
+    "a_hi": "राष्ट्रीय राजमार्ग (National Highway)"
+  },
+  {
+    "id": 297,
+    "q_en": "Milestone with a green top indicates:",
+    "a_en": "State Highway (SH)",
+    "q_hi": "हरे शीर्ष वाला मील का पत्थर दर्शाता है:",
+    "a_hi": "राज्य राजमार्ग (State Highway)"
+  },
+  {
+    "id": 298,
+    "q_en": "Milestone with a black/blue/white top indicates:",
+    "a_en": "City or District Road",
+    "q_hi": "काले/नीले/सफेद शीर्ष वाला मील का पत्थर दर्शाता है:",
+    "a_hi": "शहर या जिला सड़क"
+  },
+  {
+    "id": 299,
+    "q_en": "Milestone with an orange top indicates:",
+    "a_en": "Rural Road (Pradhan Mantri Gram Sadak Yojana)",
+    "q_hi": "नारंगी शीर्ष वाला मील का पत्थर दर्शाता है:",
+    "a_hi": "ग्रामीण सड़क (प्रधानमंत्री ग्राम सड़क योजना)"
+  },
+  {
+    "id": 300,
+    "q_en": "When driving in a tunnel, you must:",
+    "a_en": "Switch on low-beam headlights, remove sunglasses, maintain distance, avoid overtaking",
+    "q_hi": "सुरंग (टनल) में वाहन चलाते समय आपको:",
+    "a_hi": "लो-बीम हेडलाइट चालू करनी चाहिए, धूप का चश्मा उतारना चाहिए, दूरी रखनी चाहिए और ओवरटेक नहीं करना चाहिए"
+  },
+  {
+    "id": 301,
+    "q_en": "Using a horn unnecessarily or continuously is:",
+    "a_en": "A traffic offence causing noise pollution",
+    "q_hi": "अनावश्यक रूप से या लगातार हॉर्न बजाना:",
+    "a_hi": "ध्वनि प्रदूषण फैलाने वाला यातायात अपराध है"
+  },
+  {
+    "id": 302,
+    "q_en": "When approaching a sharp blind curve on a hill road at night, you should:",
+    "a_en": "Slow down, keep to extreme left, and flash headlights/dipper to warn oncoming traffic",
+    "q_hi": "रात में पहाड़ी सड़क के तीखे अंधे मोड़ पर पहुँचते समय आपको:",
+    "a_hi": "गति धीमी करनी चाहिए, बिल्कुल बाएं रहना चाहिए और सामने वाले यातायात को सचेत करने के लिए डिपर/हेडलाइट चमकानी चाहिए"
+  },
+  {
+    "id": 303,
+    "q_en": "On narrow hill roads, who gets preference when two vehicles meet?",
+    "a_en": "The vehicle going uphill (ascendant) has preference over the vehicle going downhill",
+    "q_hi": "संकरी पहाड़ी सड़कों पर दो वाहनों के आमने-सामने आने पर किसे प्राथमिकता मिलती है?",
+    "a_hi": "चढ़ाई पर ऊपर जा रहे वाहन को नीचे उतर रहे वाहन पर प्राथमिकता मिलती है"
+  },
+  {
+    "id": 304,
+    "q_en": "Why does an uphill vehicle get preference on a narrow mountain road?",
+    "a_en": "Because it is more difficult and dangerous to stop and restart on an upward slope",
+    "q_hi": "संकरी पहाड़ी सड़क पर ऊपर चढ़ने वाले वाहन को प्राथमिकता क्यों मिलती है?",
+    "a_hi": "क्योंकि ऊपर की ढलान पर वाहन रोकना और फिर से स्टार्ट करना अधिक कठिन और खतरनाक होता है"
+  },
+  {
+    "id": 305,
+    "q_en": "What should a driver do if an animal suddenly runs onto the road?",
+    "a_en": "Brake firmly in a straight line without swerving violently into oncoming traffic",
+    "q_hi": "यदि कोई जानवर अचानक सड़क पर आ जाए तो चालक को क्या करना चाहिए?",
+    "a_hi": "सामने के यातायात की ओर तेजी से मोड़े बिना सीधी रेखा में मजबूती से ब्रेक लगाएं"
+  },
+  {
+    "id": 306,
+    "q_en": "What is 'skidding'?",
+    "a_en": "Loss of grip between tyres and the road surface causing the vehicle to slide uncontrollably",
+    "q_hi": "'स्किडिंग (फिसलना)' क्या है?",
+    "a_hi": "टायरों और सड़क की सतह के बीच पकड़ खत्म होना जिससे वाहन अनियंत्रित होकर फिसलता है"
+  },
+  {
+    "id": 307,
+    "q_en": "If the rear of your car skids to the right (oversteer), you should:",
+    "a_en": "Ease off the accelerator and steer gently in the direction of the skid (to the right)",
+    "q_hi": "यदि आपकी कार का पिछला हिस्सा दाईं ओर फिसलता है, तो आपको:",
+    "a_hi": "एक्सीलेटर छोड़ना चाहिए और फिसलन की दिशा (दाईं ओर) में ही हल्का स्टीयरिंग घुमाना चाहिए"
+  },
+  {
+    "id": 308,
+    "q_en": "Before changing direction or pulling out from a parked position, follow the MSM routine:",
+    "a_en": "Mirror – Signal – Manoeuvre",
+    "q_hi": "दिशा बदलने या पार्किंग से वाहन निकालने से पहले MSM नियम का पालन करें:",
+    "a_hi": "मिरर (शीशा देखें) – सिग्नल (संकेत दें) – मैन्युवर (वाहन मोड़ें)"
+  },
+  {
+    "id": 309,
+    "q_en": "Every motor car is required to carry a:",
+    "a_en": "First-aid kit and reflective warning triangle",
+    "q_hi": "प्रत्येक मोटर कार में क्या रखना अनिवार्य है?",
+    "a_hi": "प्राथमिक चिकित्सा किट (First-aid kit) और परावर्तक चेतावनी त्रिभुज"
+  },
+  {
+    "id": 310,
+    "q_en": "Texting or watching videos while driving is:",
+    "a_en": "Extremely hazardous and punishable as dangerous driving",
+    "q_hi": "वाहन चलाते समय मैसेज टाइप करना या वीडियो देखना:",
+    "a_hi": "अत्यंत खतरनाक है और खतरनाक ड्राइविंग के रूप में दंडनीय है"
+  },
+  {
+    "id": 311,
+    "q_en": "On a motorcycle, which brake provides about 70% of the stopping power?",
+    "a_en": "The front brake (used progressively together with the rear brake)",
+    "q_hi": "मोटरसाइकिल में कौन सा ब्रेक लगभग 70% रोकने की शक्ति प्रदान करता है?",
+    "a_hi": "अगला ब्रेक (पिछले ब्रेक के साथ क्रमिक रूप से उपयोग किया जाता है)"
+  },
+  {
+    "id": 312,
+    "q_en": "Pillion rider on a two-wheeler must sit:",
+    "a_en": "Properly on the pillion seat with feet on footrests and holding onto rider or grab rail",
+    "q_hi": "दोपहिया वाहन पर पीछे बैठने वाले व्यक्ति को बैठना चाहिए:",
+    "a_hi": "फुटरेस्ट पर पैर रखकर और चालक या ग्रैब रेल को पकड़कर ठीक से"
+  },
+  {
+    "id": 313,
+    "q_en": "When carrying a child on a two-wheeler (above 4 years), what is mandatory?",
+    "a_en": "The child must wear a properly fitted crash helmet",
+    "q_hi": "दोपहिया वाहन पर (4 वर्ष से अधिक उम्र के) बच्चे को ले जाते समय क्या अनिवार्य है?",
+    "a_hi": "बच्चे को सही फिटिंग वाला क्रैश हेलमेट पहनना अनिवार्य है"
+  },
+  {
+    "id": 314,
+    "q_en": "Speed limit for a motorcycle carrying a child under 4 years of age:",
+    "a_en": "40 km/h (with child safety harness and crash helmet)",
+    "q_hi": "4 वर्ष से कम उम्र के बच्चे को ले जाने वाली मोटरसाइकिल की गति सीमा:",
+    "a_hi": "40 किमी/घंटा (बच्चे के सुरक्षा हार्नेस और हेलमेट के साथ)"
+  },
+  {
+    "id": 315,
+    "q_en": "What does 'NO STANDING' mean?",
+    "a_en": "You may stop briefly only to pick up or drop off passengers, but cannot wait",
+    "q_hi": "'नो स्टैंडिंग (NO STANDING)' का क्या अर्थ है?",
+    "a_hi": "आप केवल यात्रियों को चढ़ाने या उतारने के लिए क्षण भर रुक सकते हैं, प्रतीक्षा नहीं कर सकते"
+  },
+  {
+    "id": 316,
+    "q_en": "What does 'NO PARKING' mean?",
+    "a_en": "You may stop briefly to load/unload goods or passengers, but cannot leave the vehicle parked",
+    "q_hi": "'नो पार्किंग (NO PARKING)' का क्या अर्थ है?",
+    "a_hi": "आप सामान या यात्रियों को उतारने/चढ़ाने के लिए थोड़ी देर रुक सकते हैं, लेकिन वाहन खड़ा छोड़कर नहीं जा सकते"
+  },
+  {
+    "id": 317,
+    "q_en": "What does 'NO STOPPING' (Clearway) mean?",
+    "a_en": "You cannot stop the vehicle at all, even for a second, unless required by traffic/signals",
+    "q_hi": "'नो स्टॉपिंग (NO STOPPING)' का क्या अर्थ है?",
+    "a_hi": "ट्रैफिक या सिग्नल की आवश्यकता के बिना आप एक सेकंड के लिए भी वाहन नहीं रोक सकते"
+  },
+  {
+    "id": 318,
+    "q_en": "Parking within how many meters of a traffic light, pedestrian crossing, or intersection is prohibited?",
+    "a_en": "Within 15 meters",
+    "q_hi": "ट्रैफिक लाइट, पैदल पारपथ या चौराहे से कितने मीटर के भीतर पार्किंग निषिद्ध है?",
+    "a_hi": "15 मीटर के भीतर"
+  },
+  {
+    "id": 319,
+    "q_en": "When towing a broken-down vehicle, the distance between the two vehicles shall not exceed:",
+    "a_en": "5 meters",
+    "q_hi": "खराब वाहन को टो (खींचते) समय दोनों वाहनों के बीच की दूरी इससे अधिक नहीं होनी चाहिए:",
+    "a_hi": "5 मीटर"
+  },
+  {
+    "id": 320,
+    "q_en": "Can a two-wheeler tow another vehicle?",
+    "a_en": "No, towing by a motorcycle or scooter is prohibited",
+    "q_hi": "क्या दोपहिया वाहन किसी अन्य वाहन को खींच (टो कर) सकता है?",
+    "a_hi": "नहीं, मोटरसाइकिल या स्कूटर द्वारा टो करना निषिद्ध है"
+  },
+  {
+    "id": 321,
+    "q_en": "What is the minimum educational qualification required for a transport driving licence in India?",
+    "a_en": "No minimum educational qualification is required (removed by MV Amendment Act 2019)",
+    "q_hi": "भारत में परिवहन ड्राइविंग लाइसेंस के लिए न्यूनतम शैक्षणिक योग्यता क्या है?",
+    "a_hi": "कोई न्यूनतम शैक्षणिक योग्यता आवश्यक नहीं है (मोटर वाहन संशोधन अधिनियम 2019 द्वारा हटा दी गई)"
+  },
+  {
+    "id": 322,
+    "q_en": "A person suffering from night blindness or uncontrolled epilepsy:",
+    "a_en": "Is medically unfit to obtain a driving licence",
+    "q_hi": "रतौंधी (Night blindness) या अनियंत्रित मिर्गी से पीड़ित व्यक्ति:",
+    "a_hi": "ड्राइविंग लाइसेंस प्राप्त करने के लिए चिकित्सकीय रूप से अयोग्य है"
+  },
+  {
+    "id": 323,
+    "q_en": "Can a person hold more than one valid Driving Licence in India?",
+    "a_en": "No, holding more than one driving licence is illegal under Section 6",
+    "q_hi": "क्या कोई व्यक्ति भारत में एक से अधिक वैध ड्राइविंग लाइसेंस रख सकता है?",
+    "a_hi": "नहीं, धारा 6 के तहत एक से अधिक ड्राइविंग लाइसेंस रखना गैरकानूनी है"
+  },
+  {
+    "id": 324,
+    "q_en": "Driving at a speed or in a manner dangerous to the public falls under which section of MV Act?",
+    "a_en": "Section 184 (Dangerous Driving)",
+    "q_hi": "सार्वजनिक रूप से खतरनाक गति या तरीके से वाहन चलाना मोटर वाहन अधिनियम की किस धारा के अंतर्गत आता है?",
+    "a_hi": "धारा 184 (खतरनाक ड्राइविंग)"
+  },
+  {
+    "id": 325,
+    "q_en": "Racing and trials of speed on public roads without written permission is:",
+    "a_en": "An offence under Section 189 of the Motor Vehicles Act",
+    "q_hi": "बिना लिखित अनुमति के सार्वजनिक सड़कों पर रेसिंग और गति परीक्षण करना:",
+    "a_hi": "मोटर वाहन अधिनियम की धारा 189 के तहत एक अपराध है"
+  },
+  {
+    "id": 326,
+    "q_en": "Using a vehicle in an unsafe condition (defective brakes, bald tyres) is punishable under:",
+    "a_en": "Section 190 of the Motor Vehicles Act",
+    "q_hi": "असुरक्षित स्थिति में वाहन (खराब ब्रेक, घिसे टायर) चलाना किस धारा के तहत दंडनीय है?",
+    "a_hi": "मोटर वाहन अधिनियम की धारा 190 के तहत"
+  },
+  {
+    "id": 327,
+    "q_en": "Refusing to stop the vehicle when signaled by a uniformed police officer is:",
+    "a_en": "An offence under Section 132 / 179 of the Motor Vehicles Act",
+    "q_hi": "वर्दीधारी पुलिस अधिकारी द्वारा संकेत दिए जाने पर वाहन रोकने से इनकार करना:",
+    "a_hi": "मोटर वाहन अधिनियम की धारा 132 / 179 के तहत एक अपराध है"
+  },
+  {
+    "id": 328,
+    "q_en": "What does a 'Compulsory Cycle Track' sign mean?",
+    "a_en": "Cyclists must use the track and motor vehicles are prohibited from entering it",
+    "q_hi": "'अनिवार्य साइकिल ट्रैक' संकेत का क्या अर्थ है?",
+    "a_hi": "साइकिल चालकों को इसी ट्रैक का उपयोग करना चाहिए और मोटर वाहनों का प्रवेश निषिद्ध है"
+  },
+  {
+    "id": 329,
+    "q_en": "What does a 'Pedestrians Only' sign mean?",
+    "a_en": "Only pedestrians are allowed; all vehicles including cycles are prohibited",
+    "q_hi": "'केवल पैदल यात्री' संकेत का क्या अर्थ है?",
+    "a_hi": "केवल पैदल यात्रियों को अनुमति है; साइकिल सहित सभी वाहन निषिद्ध हैं"
+  },
+  {
+    "id": 330,
+    "q_en": "What does 'Buses Prohibited' sign mean?",
+    "a_en": "Entry of buses is forbidden on that road",
+    "q_hi": "'बस निषेध' संकेत का क्या अर्थ है?",
+    "a_hi": "उस सड़क पर बसों का प्रवेश वर्जित है"
+  },
+  {
+    "id": 331,
+    "q_en": "What does 'Trucks Prohibited' sign mean?",
+    "a_en": "Entry of heavy goods vehicles/trucks is forbidden on that road",
+    "q_hi": "'ट्रक निषेध' संकेत का क्या अर्थ है?",
+    "a_hi": "उस सड़क पर भारी मालवाहक वाहनों/ट्रकों का प्रवेश वर्जित है"
+  },
+  {
+    "id": 332,
+    "q_en": "What does 'Two-Wheelers Prohibited' sign mean?",
+    "a_en": "Motorcycles and scooters are not allowed on that road/flyover",
+    "q_hi": "'दोपहिया वाहन निषेध' संकेत का क्या अर्थ है?",
+    "a_hi": "उस सड़क/फ्लाईओवर पर मोटरसाइकिल और स्कूटर की अनुमति नहीं है"
+  },
+  {
+    "id": 333,
+    "q_en": "What does 'All Motor Vehicles Prohibited' sign show?",
+    "a_en": "A red-bordered white circle containing both a car and a motorcycle symbol",
+    "q_hi": "'सभी मोटर वाहन निषेध' संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद वृत्त जिसमें कार और मोटरसाइकिल दोनों के चिह्न हैं"
+  },
+  {
+    "id": 334,
+    "q_en": "What does 'Compulsory Turn Right Ahead' sign show?",
+    "a_en": "A blue circle with a white arrow bending 90 degrees to the right",
+    "q_hi": "'आगे दाएं मुड़ना अनिवार्य' संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वृत्त जिसमें सफेद तीर 90 डिग्री दाईं ओर मुड़ता है"
+  },
+  {
+    "id": 335,
+    "q_en": "What does 'Compulsory Ahead or Turn Left' sign show?",
+    "a_en": "A blue circle with a combined straight and left white arrow",
+    "q_hi": "'आगे चलना या बाएं मुड़ना अनिवार्य' संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वृत्त जिसमें सीधा और बायां संयुक्त सफेद तीर है"
+  },
+  {
+    "id": 336,
+    "q_en": "What does 'Compulsory Keep Right' sign show?",
+    "a_en": "A blue circle with a white arrow pointing diagonally downward to the right",
+    "q_hi": "'अनिवार्य दाएं रहें' संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वृत्त जिसमें सफेद तीर तिरछा नीचे दाईं ओर इशारा करता है"
+  },
+  {
+    "id": 337,
+    "q_en": "What does 'Right Hand Curve' warning sign show?",
+    "a_en": "A red-bordered white triangle with a black arrow curving to the right",
+    "q_hi": "'दाहिना मोड़' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें काला तीर दाईं ओर मुड़ता है"
+  },
+  {
+    "id": 338,
+    "q_en": "What does 'Left Hand Curve' warning sign show?",
+    "a_en": "A red-bordered white triangle with a black arrow curving to the left",
+    "q_hi": "'बायां मोड़' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें काला तीर बाईं ओर मुड़ता है"
+  },
+  {
+    "id": 339,
+    "q_en": "What does 'Left Hair Pin Bend' warning sign show?",
+    "a_en": "A red-bordered white triangle with a sharp U-bend arrow turning to the left",
+    "q_hi": "'बायां हेयर पिन मोड़' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें बाईं ओर तीखा U-आकार का तीर है"
+  },
+  {
+    "id": 340,
+    "q_en": "What does 'Narrow Bridge' warning sign show?",
+    "a_en": "A red-bordered white triangle with two lines narrowing in the middle and widening again",
+    "q_hi": "'संकरा पुल' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें दो रेखाएं बीच में संकरी होकर फिर चौड़ी होती हैं"
+  },
+  {
+    "id": 341,
+    "q_en": "What does 'Traffic Signals Ahead' warning sign show?",
+    "a_en": "A red-bordered white triangle with red, amber, and green traffic lights",
+    "q_hi": "'आगे ट्रैफिक सिग्नल है' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें लाल, पीली और हरी ट्रैफिक बत्तियां हैं"
+  },
+  {
+    "id": 342,
+    "q_en": "What does 'Overhead Cable' warning sign show?",
+    "a_en": "A red-bordered white triangle with a lightning bolt above a vehicle/road",
+    "q_hi": "'ऊपर बिजली का तार' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें बिजली की चमक का चिह्न है"
+  },
+  {
+    "id": 343,
+    "q_en": "What does 'Quay Side or River Bank' warning sign show?",
+    "a_en": "A red-bordered white triangle showing a car falling off an edge into water",
+    "q_hi": "'नदी का किनारा या घाट' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें किनारे से पानी में गिरती कार दिखाई गई है"
+  },
+  {
+    "id": 344,
+    "q_en": "What does 'Sudden Side Wind' warning sign show?",
+    "a_en": "A red-bordered white triangle with a windsock blowing horizontally",
+    "q_hi": "'अचानक तेज पार्श्व हवा' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें हवा से उड़ता विंडसॉक है"
+  },
+  {
+    "id": 345,
+    "q_en": "What does 'Low Flying Aircraft' warning sign show?",
+    "a_en": "A red-bordered white triangle with an airplane symbol",
+    "q_hi": "'नीचे उड़ने वाले विमान' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें हवाई जहाज का चिह्न है"
+  },
+  {
+    "id": 346,
+    "q_en": "What does 'Tunnel Ahead' warning sign show?",
+    "a_en": "A red-bordered white triangle with a tunnel arch symbol",
+    "q_hi": "'आगे सुरंग है' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें सुरंग के मेहराब का चिह्न है"
+  },
+  {
+    "id": 347,
+    "q_en": "What does 'Two-Way Operation' warning sign show?",
+    "a_en": "A red-bordered white triangle with two parallel arrows pointing in opposite directions",
+    "q_hi": "'दोतरफा यातायात' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें विपरीत दिशाओं में दो समानांतर तीर हैं"
+  },
+  {
+    "id": 348,
+    "q_en": "What does 'Bus Stop' informatory sign show?",
+    "a_en": "A blue rectangle with a white bus symbol",
+    "q_hi": "'बस स्टॉप' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "सफेद बस चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 349,
+    "q_en": "What does 'Railway Station' informatory sign show?",
+    "a_en": "A blue rectangle with a white train front symbol",
+    "q_hi": "'रेलवे स्टेशन' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "सफेद ट्रेन चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 350,
+    "q_en": "What does 'Airport' informatory sign show?",
+    "a_en": "A blue rectangle with a white airplane symbol",
+    "q_hi": "'हवाई अड्डा' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "सफेद हवाई जहाज चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 351,
+    "q_en": "What does 'Repair Facility / Workshop' informatory sign show?",
+    "a_en": "A blue rectangle with a spanner/wrench symbol",
+    "q_hi": "'मरम्मत सुविधा / वर्कशॉप' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "पाना/रिंच चिह्न वाला नीला आयत"
+  },
+  {
+    "id": 352,
+    "q_en": "What does 'Emergency SOS Telephone' informatory sign show?",
+    "a_en": "A blue rectangle with 'SOS' and a telephone handset",
+    "q_hi": "'आपातकालीन SOS टेलीफोन' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "'SOS' और टेलीफोन हैंडसेट वाला नीला आयत"
+  },
+  {
+    "id": 353,
+    "q_en": "What is the correct use of turn indicators before turning or changing lanes?",
+    "a_en": "Switch on indicator 3–5 seconds (30–50m) before turning and switch off immediately after",
+    "q_hi": "मुड़ने या लेन बदलने से पहले टर्न इंडिकेटर का सही उपयोग क्या है?",
+    "a_hi": "मुड़ने से 3-5 सेकंड (30-50 मीटर) पहले इंडिकेटर चालू करें और मुड़ने के तुरंत बाद बंद कर दें"
+  },
+  {
+    "id": 354,
+    "q_en": "Minimum age to ride an electric scooter with motor power up to 250W and top speed up to 25 km/h:",
+    "a_en": "No driving licence or registration required (low-speed e-bike category)",
+    "q_hi": "250W तक मोटर पावर और 25 किमी/घंटा तक गति वाले इलेक्ट्रिक स्कूटर चलाने की न्यूनतम आयु:",
+    "a_hi": "कोई ड्राइविंग लाइसेंस या पंजीकरण आवश्यक नहीं है (कम गति वाली ई-बाइक श्रेणी)"
+  },
+  {
+    "id": 355,
+    "q_en": "Electric scooters with speed above 25 km/h or power above 250W require:",
+    "a_en": "Valid Registration, HSRP number plate, Insurance, Driving Licence, and ISI helmet",
+    "q_hi": "25 किमी/घंटा से अधिक गति या 250W से अधिक पावर वाले इलेक्ट्रिक स्कूटर के लिए आवश्यक है:",
+    "a_hi": "वैध पंजीकरण, HSRP नंबर प्लेट, बीमा, ड्राइविंग लाइसेंस और ISI हेलमेट"
+  },
+  {
+    "id": 356,
+    "q_en": "Switching off the engine at red lights longer than 15–20 seconds:",
+    "a_en": "Saves fuel and reduces air pollution",
+    "q_hi": "15-20 सेकंड से अधिक समय तक लाल बत्ती पर इंजन बंद करने से:",
+    "a_hi": "ईंधन की बचत होती है और वायु प्रदूषण कम होता है"
+  },
+  {
+    "id": 357,
+    "q_en": "If your vehicle stalls on a railway track and a train is approaching:",
+    "a_en": "Evacuate immediately and run away from track at a 45-degree angle toward approaching train",
+    "q_hi": "यदि आपका वाहन रेलवे पटरी पर बंद हो जाए और ट्रेन आ रही हो:",
+    "a_hi": "तुरंत वाहन से बाहर निकलें और आती हुई ट्रेन की दिशा में 45-डिग्री के कोण पर पटरी से दूर भागें"
+  },
+  {
+    "id": 358,
+    "q_en": "Transfer of ownership of a sold vehicle must be reported to the RTO within:",
+    "a_en": "14 days (within same state) or 45 days (if transferred to another state)",
+    "q_hi": "बेचे गए वाहन के स्वामित्व हस्तांतरण की सूचना RTO को कितने दिनों में देनी चाहिए?",
+    "a_hi": "14 दिन के भीतर (उसी राज्य में) या 45 दिन के भीतर (दूसरे राज्य में)"
+  },
+  {
+    "id": 359,
+    "q_en": "If you change your residential address permanently, you must apply for address change in RC/DL within:",
+    "a_en": "30 days",
+    "q_hi": "यदि आप अपना आवासीय पता स्थायी रूप से बदलते हैं, तो RC/DL में पता बदलने के लिए आवेदन करना होगा:",
+    "a_hi": "30 दिनों के भीतर"
+  },
+  {
+    "id": 360,
+    "q_en": "Hypothecation termination (Form 35) is required when:",
+    "a_en": "A vehicle loan is fully repaid and the bank's lien needs to be removed from the RC",
+    "q_hi": "हाइपोथेकेशन समाप्ति (फॉर्म 35) कब आवश्यक है?",
+    "a_hi": "जब वाहन ऋण पूरी तरह चुका दिया गया हो और RC से बैंक का नाम हटाना हो"
+  },
+  {
+    "id": 361,
+    "q_en": "Fitness Certificate (FC) for a new private non-transport vehicle is valid for:",
+    "a_en": "15 years from initial registration (renewed every 5 years thereafter)",
+    "q_hi": "नए निजी गैर-परिवहन वाहन के लिए फिटनेस प्रमाण पत्र (FC) वैध होता है:",
+    "a_hi": "प्रारंभिक पंजीकरण से 15 वर्ष के लिए (उसके बाद हर 5 वर्ष में नवीनीकृत)"
+  },
+  {
+    "id": 362,
+    "q_en": "Fitness Certificate (FC) for a new transport (commercial) vehicle is valid for:",
+    "a_en": "2 years initially (up to 8 years old), and every 1 year thereafter",
+    "q_hi": "नए परिवहन (कमर्शियल) वाहन के लिए फिटनेस प्रमाण पत्र (FC) वैध होता है:",
+    "a_hi": "शुरू में 2 वर्ष के लिए (8 वर्ष पुराना होने तक), और उसके बाद हर 1 वर्ष के लिए"
+  },
+  {
+    "id": 363,
+    "q_en": "What is 'Zero Depreciation' (Bumper-to-Bumper) add-on cover?",
+    "a_en": "An insurance add-on paying full replacement cost of damaged parts without depreciation deduction",
+    "q_hi": "'जीरो डेप्रिसिएशन (बंपर-टू-बंपर)' बीमा कवर क्या है?",
+    "a_hi": "एक बीमा ऐड-ऑन जो बिना मूल्यह्रास काटे क्षतिग्रस्त पुर्जों की पूरी लागत का भुगतान करता है"
+  },
+  {
+    "id": 364,
+    "q_en": "In the Sarathi Parivahan online Learner's Licence (LL) test, how many questions are generally asked?",
+    "a_en": "15 to 20 multiple-choice questions (e.g., 15 questions in UP with 9 required to pass)",
+    "q_hi": "सारथी परिवहन ऑनलाइन लर्नर लाइसेंस (LL) परीक्षा में आमतौर पर कितने प्रश्न पूछे जाते हैं?",
+    "a_hi": "15 से 20 बहुविकल्पीय प्रश्न (जैसे यूपी में 15 प्रश्न जिनमें से 9 सही होना अनिवार्य है)"
+  },
+  {
+    "id": 365,
+    "q_en": "How much time is given per question in the online Sarathi LL exam?",
+    "a_en": "30 seconds per question",
+    "q_hi": "ऑनलाइन सारथी LL परीक्षा में प्रति प्रश्न कितना समय दिया जाता है?",
+    "a_hi": "प्रति प्रश्न 30 सेकंड"
+  },
+  {
+    "id": 366,
+    "q_en": "During the online home-based AI-proctored LL test on Sarathi Parivahan, the candidate must:",
+    "a_en": "Look straight into webcam in a well-lit room with no other person present and no tab switching",
+    "q_hi": "सारथी परिवहन पर घर से ऑनलाइन AI-प्रॉक्टर्ड LL टेस्ट के दौरान उम्मीदवार को:",
+    "a_hi": "अच्छी रोशनी वाले कमरे में सीधे वेबकैम में देखना चाहिए, कोई अन्य व्यक्ति न हो और टैब न बदलें"
+  },
+  {
+    "id": 367,
+    "q_en": "What is the validity of an LL test pass result to download the Learner's Licence?",
+    "a_en": "Generated immediately upon passing and remains valid for 6 months from date of issue",
+    "q_hi": "लर्नर लाइसेंस डाउनलोड करने के लिए LL परीक्षा उत्तीर्ण परिणाम की वैधता क्या है?",
+    "a_hi": "उत्तीर्ण होते ही तुरंत जनरेट होता है और जारी होने की तिथि से 6 महीने तक वैध रहता है"
+  },
+  {
+    "id": 368,
+    "q_en": "What is 'Unladen Weight' of a vehicle?",
+    "a_en": "Weight of the vehicle ready for use with standard equipment, oil, and water, without passengers or cargo",
+    "q_hi": "वाहन का 'बिना लदा वजन (Unladen Weight)' क्या है?",
+    "a_hi": "बिना यात्रियों या सामान के, मानक उपकरण, तेल और पानी के साथ उपयोग के लिए तैयार वाहन का वजन"
+  },
+  {
+    "id": 369,
+    "q_en": "What is 'Laden Weight' of a vehicle?",
+    "a_en": "Actual weight of the vehicle together with driver, passengers, and cargo",
+    "q_hi": "वाहन का 'लदा हुआ वजन (Laden Weight)' क्या है?",
+    "a_hi": "चालक, यात्रियों और सामान सहित वाहन का वास्तविक कुल वजन"
+  },
+  {
+    "id": 370,
+    "q_en": "What is 'Brake Fade'?",
+    "a_en": "Temporary reduction of braking power caused by overheating of brake pads/discs during continuous braking",
+    "q_hi": "'ब्रेक फेड (Brake Fade)' क्या है?",
+    "a_hi": "लगातार ब्रेक लगाने से ब्रेक पैड/डिस्क के अत्यधिक गर्म होने के कारण ब्रेकिंग शक्ति में अस्थायी कमी"
+  },
+  {
+    "id": 371,
+    "q_en": "What is 'Microsleep' while driving?",
+    "a_en": "A brief involuntary episode of sleep lasting 1 to 10 seconds caused by fatigue",
+    "q_hi": "ड्राइविंग के दौरान 'माइक्रोस्लीप' क्या है?",
+    "a_hi": "थकान के कारण 1 से 10 सेकंड तक लगने वाली अनैच्छिक झपकी"
+  },
+  {
+    "id": 372,
+    "q_en": "What is the safest hand position on a steering wheel?",
+    "a_en": "9 o'clock and 3 o'clock (or 10 and 2) with thumbs resting on the rim",
+    "q_hi": "स्टीयरिंग व्हील पर हाथों की सबसे सुरक्षित स्थिति क्या है?",
+    "a_hi": "9 बजे और 3 बजे (या 10 और 2) की स्थिति में, अंगूठे रिम पर टिके हुए"
+  },
+  {
+    "id": 373,
+    "q_en": "Minimum safe distance from the steering wheel airbag for a driver's chest is:",
+    "a_en": "At least 25 cm (10 inches)",
+    "q_hi": "चालक की छाती और स्टीयरिंग व्हील एयरबैग के बीच न्यूनतम सुरक्षित दूरी:",
+    "a_hi": "कम से कम 25 सेमी (10 इंच)"
+  },
+  {
+    "id": 374,
+    "q_en": "How should a headrest (head restraint) be adjusted?",
+    "a_en": "Top of headrest level with top of your head and close behind it to prevent whiplash",
+    "q_hi": "हेडरेस्ट (सिर का सहारा) कैसे समायोजित किया जाना चाहिए?",
+    "a_hi": "व्हिपलैश चोट से बचने के लिए हेडरेस्ट का ऊपरी हिस्सा आपके सिर के शीर्ष के बराबर और बिल्कुल पीछे हो"
+  },
+  {
+    "id": 375,
+    "q_en": "What is 'ISOFIX' in a car?",
+    "a_en": "Standardized international attachment points for securing a child safety seat directly to car chassis",
+    "q_hi": "कार में 'ISOFIX' क्या है?",
+    "a_hi": "चाइल्ड सेफ्टी सीट को सीधे कार के चेसिस से सुरक्षित रूप से जोड़ने के अंतर्राष्ट्रीय मानक बिंदु"
+  },
+  {
+    "id": 376,
+    "q_en": "Never place a rear-facing child seat on a front passenger seat with an active airbag because:",
+    "a_en": "Airbag deployment can fatally injure the infant",
+    "q_hi": "सक्रिय एयरबैग वाली अगली यात्री सीट पर पीछे की ओर मुंह वाली चाइल्ड सीट कभी न रखें क्योंकि:",
+    "a_hi": "एयरबैग खुलने से शिशु को जानलेवा चोट लग सकती है"
+  },
+  {
+    "id": 377,
+    "q_en": "Rule of thumb when driving near heavy trucks:",
+    "a_en": "If you cannot see the truck driver in their side mirror, the truck driver cannot see you",
+    "q_hi": "भारी ट्रकों के पास गाड़ी चलाते समय अंगूठे का नियम क्या है?",
+    "a_hi": "यदि आप ट्रक चालक को उसके साइड मिरर में नहीं देख सकते, तो ट्रक चालक भी आपको नहीं देख सकता"
+  },
+  {
+    "id": 378,
+    "q_en": "What is 'Automated Testing Track' (ADTT) for Driving Licence?",
+    "a_en": "Sensor-and-camera-equipped track evaluating 8-track, H-track, reverse S, gradient, and parallel parking",
+    "q_hi": "ड्राइविंग लाइसेंस के लिए 'स्वचालित परीक्षण ट्रैक (ADTT)' क्या है?",
+    "a_hi": "सेंसर और कैमरे से सुसज्जित ट्रैक जो 8-ट्रैक, H-ट्रैक, रिवर्स S, ढलान और समानांतर पार्किंग का मूल्यांकन करता है"
+  },
+  {
+    "id": 379,
+    "q_en": "What does 'Check Engine' (Malfunction Indicator Lamp) in amber mean?",
+    "a_en": "An engine or emission-control sensor issue detected; drive gently and get it diagnosed soon",
+    "q_hi": "डैशबोर्ड पर पीली 'चेक इंजन' लाइट का क्या अर्थ है?",
+    "a_hi": "इंजन या उत्सर्जन नियंत्रण सेंसर में कोई समस्या पाई गई है; धीरे चलाएं और जल्द जांच कराएं"
+  },
+  {
+    "id": 380,
+    "q_en": "What is 'Cruise Control' and when should it NOT be used?",
+    "a_en": "Maintains constant speed; never use in heavy traffic, sharp curves, wet roads, or hills",
+    "q_hi": "'क्रूज कंट्रोल' क्या है और इसका उपयोग कब नहीं करना चाहिए?",
+    "a_hi": "यह एक समान गति बनाए रखता है; भारी ट्रैफिक, तीखे मोड़, गीली सड़क या पहाड़ियों पर इसका उपयोग कभी न करें"
+  },
+  {
+    "id": 381,
+    "q_en": "What is 'Eco Driving'?",
+    "a_en": "Driving smoothly with gradual acceleration, optimal gear shifts, correct tyre pressure, and minimal idling",
+    "q_hi": "'इको ड्राइविंग (Eco Driving)' क्या है?",
+    "a_hi": "सुचारू रूप से गति बढ़ाना, सही गियर बदलना, सही टायर प्रेशर रखना और अनावश्यक इंजन चालू न रखना"
+  },
+  {
+    "id": 382,
+    "q_en": "What is 'Target Fixation' in driving/riding?",
+    "a_en": "Looking too long at an obstacle, causing you to unconsciously steer toward it",
+    "q_hi": "ड्राइविंग/राइडिंग में 'टारगेट फिक्सेशन' क्या है?",
+    "a_hi": "किसी बाधा को बहुत देर तक घूरते रहना, जिससे आप अनजाने में उसी की ओर वाहन मोड़ देते हैं"
+  },
+  {
+    "id": 383,
+    "q_en": "What does 'Crumple Zone' in a car do?",
+    "a_en": "Deforms during a crash to absorb impact energy and protect the passenger cabin",
+    "q_hi": "कार में 'क्रंपल ज़ोन' क्या करता है?",
+    "a_hi": "दुर्घटना के दौरान मुड़कर टक्कर की ऊर्जा को सोख लेता है और यात्री केबिन को सुरक्षित रखता है"
+  },
+  {
+    "id": 384,
+    "q_en": "What does 'Bharat NCAP' rate?",
+    "a_en": "Crash safety performance of passenger cars in India (from 1 to 5 stars)",
+    "q_hi": "'भारत NCAP' किसकी रेटिंग करता है?",
+    "a_hi": "भारत में यात्री कारों के क्रैश सुरक्षा प्रदर्शन की (1 से 5 स्टार तक)"
+  },
+  {
+    "id": 385,
+    "q_en": "What is a 'Bus Lane'?",
+    "a_en": "A dedicated lane marked for public buses; private cars must not drive or park in it",
+    "q_hi": "'बस लेन' क्या है?",
+    "a_hi": "सार्वजनिक बसों के लिए आरक्षित लेन; निजी कारों को इसमें चलना या पार्क करना मना है"
+  },
+  {
+    "id": 386,
+    "q_en": "Who is permitted to park in a space marked with a wheelchair symbol?",
+    "a_en": "Only vehicles carrying a person with a disability displaying a valid disability permit",
+    "q_hi": "व्हीलचेयर चिह्न वाले स्थान पर किसे वाहन पार्क करने की अनुमति है?",
+    "a_hi": "केवल वैध दिव्यांग पार्किंग परमिट वाले उन वाहनों को जिनमें दिव्यांग व्यक्ति यात्रा कर रहा हो"
+  },
+  {
+    "id": 387,
+    "q_en": "What is the validity of a Trade Certificate issued to a motor vehicle dealer?",
+    "a_en": "12 months",
+    "q_hi": "मोटर वाहन डीलर को जारी ट्रेड सर्टिफिकेट की वैधता कितनी होती है?",
+    "a_hi": "12 महीने"
+  },
+  {
+    "id": 388,
+    "q_en": "Duplicate Driving Licence can be applied when:",
+    "a_en": "The original licence is lost, stolen, torn, or defaced",
+    "q_hi": "डुप्लीकेट ड्राइविंग लाइसेंस के लिए कब आवेदन किया जा सकता है?",
+    "a_hi": "जब मूल लाइसेंस खो जाए, चोरी हो जाए, फट जाए या खराब हो जाए"
+  },
+  {
+    "id": 389,
+    "q_en": "What is No Objection Certificate (NOC) in RTO terms?",
+    "a_en": "Certificate confirming no pending dues/cases when transferring a vehicle to another state/RTO",
+    "q_hi": "RTO की भाषा में अनापत्ति प्रमाण पत्र (NOC) क्या है?",
+    "a_hi": "वाहन को दूसरे राज्य/RTO में स्थानांतरित करते समय कोई बकाया या मामला लंबित न होने का प्रमाण पत्र"
+  },
+  {
+    "id": 390,
+    "q_en": "Does third-party insurance cover damage to your own car?",
+    "a_en": "No, it only covers injury/death or property damage caused to a third party",
+    "q_hi": "क्या थर्ड-पार्टी बीमा आपकी अपनी कार की क्षति को कवर करता है?",
+    "a_hi": "नहीं, यह केवल तीसरे पक्ष को हुई चोट/मृत्यु या संपत्ति के नुकसान को कवर करता है"
+  },
+  {
+    "id": 391,
+    "q_en": "What does 'Yield' mean on a traffic sign?",
+    "a_en": "Slow down and give right of way to other traffic/pedestrians, stopping if necessary",
+    "q_hi": "यातायात संकेत पर 'यील्ड (Yield)' का क्या अर्थ है?",
+    "a_hi": "गति धीमी करें और अन्य यातायात/पैदल यात्रियों को रास्ता दें, आवश्यकता हो तो रुकें"
+  },
+  {
+    "id": 392,
+    "q_en": "When a train is approaching a level crossing, can you cross if the gates are still closing?",
+    "a_en": "No, never cross once warning lights/bells start or gates begin closing",
+    "q_hi": "जब ट्रेन रेलवे क्रॉसिंग के पास आ रही हो, तो क्या फाटक बंद होते समय पार किया जा सकता है?",
+    "a_hi": "नहीं, चेतावनी लाइट/घंटी शुरू होने या फाटक बंद होने के दौरान कभी पार न करें"
+  },
+  {
+    "id": 393,
+    "q_en": "What is the purpose of 'Crash Barriers' (W-beam guardrails) on highways?",
+    "a_en": "To prevent out-of-control vehicles from leaving the roadway or crossing into oncoming traffic",
+    "q_hi": "राजमार्गों पर 'क्रैश बैरियर' का उद्देश्य क्या है?",
+    "a_hi": "अनियंत्रित वाहनों को सड़क से बाहर जाने या सामने के यातायात में घुसने से रोकना"
+  },
+  {
+    "id": 394,
+    "q_en": "What does 'Wild Animals' warning sign show?",
+    "a_en": "A red-bordered white triangle with a leaping deer silhouette",
+    "q_hi": "'जंगली जानवर' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें छलांग लगाते हिरण का चित्र है"
+  },
+  {
+    "id": 395,
+    "q_en": "What does 'Rumble Strip' warning sign show?",
+    "a_en": "A red-bordered white triangle with multiple small bumps on the road line",
+    "q_hi": "'रंबल स्ट्रिप' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें सड़क की रेखा पर कई छोटे उभार बने हैं"
+  },
+  {
+    "id": 396,
+    "q_en": "What does 'Staggered Intersection' warning sign show?",
+    "a_en": "A red-bordered white triangle with a vertical line and two offset horizontal side roads",
+    "q_hi": "'विषम चौराहा (Staggered Intersection)' चेतावनी संकेत क्या दर्शाता है?",
+    "a_hi": "लाल बॉर्डर वाला सफेद त्रिभुज जिसमें एक सीधी रेखा और दो अलग-अलग स्थानों पर जुड़ती पार्श्व सड़कें हैं"
+  },
+  {
+    "id": 397,
+    "q_en": "What does 'Subway / Underpass' informatory sign show?",
+    "a_en": "A blue square with a person walking down stairs",
+    "q_hi": "'सबवे / अंडरपास' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वर्ग जिसमें सीढ़ियों से नीचे उतरता व्यक्ति दिखाया गया है"
+  },
+  {
+    "id": 398,
+    "q_en": "What does 'Foot Over Bridge' informatory sign show?",
+    "a_en": "A blue square with a person walking up and across an overhead bridge",
+    "q_hi": "'फुट ओवर ब्रिज' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वर्ग जिसमें ऊपरी पुल पर चढ़ता और पार करता व्यक्ति दिखाया गया है"
+  },
+  {
+    "id": 399,
+    "q_en": "What does 'U-Turn Ahead' informatory sign show?",
+    "a_en": "A blue square with a white U-turn arrow",
+    "q_hi": "'आगे यू-टर्न है' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वर्ग जिसमें सफेद यू-टर्न तीर बना है"
+  },
+  {
+    "id": 400,
+    "q_en": "What does 'No Through Side Road' informatory sign show?",
+    "a_en": "A blue square with a white T-junction where the side arm ends in a red bar",
+    "q_hi": "'बंद पार्श्व मार्ग' सूचनात्मक संकेत क्या दर्शाता है?",
+    "a_hi": "नीला वर्ग जिसमें सफेद T-जंक्शन की बगल वाली सड़क लाल पट्टी पर समाप्त होती है"
+  }
+]
